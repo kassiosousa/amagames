@@ -1,0 +1,1244 @@
+[
+ {
+  "id": "2026-19",
+  "year": 2026,
+  "order": 19,
+  "title": "Carimbinhos do Tadeu LTDA",
+  "studio": "Birucraft",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Puzzle",
+   "Ação"
+  ],
+  "platform": "PC (WIndows), Linux, Mobile",
+  "engine": "Godot",
+  "summary": "Você foi contratado para trabalhar pro Tadeu carimbando figuras em papel. O jogo é uma mistura de Cozy Game com Caos e Rapidez.",
+  "access": "https://itch.io/queue/c/7076353/felpojam?game_id=4336843&password=",
+  "image": "./jogos/2026-carimbinhos-do-tadeu-ltda.webp",
+  "hasCover": true
+ },
+ {
+  "id": "2026-18",
+  "year": 2026,
+  "order": 18,
+  "title": "Elemental Mask",
+  "studio": "Kassio Sousa, Gabriel Drummond e Leonardo Lindoso",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Puzzle"
+  ],
+  "platform": "VR",
+  "engine": "Unity",
+  "summary": "Uma experiência de realidade virtual na qual o ambiente está morrendo e você precisa colocar a máscara elemental no lugar certo para revitalizar toda a natureza.",
+  "access": "",
+  "image": "./jogos/2026-elemental-mask.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-17",
+  "year": 2026,
+  "order": 17,
+  "title": "Before the Light",
+  "studio": "Luiz Guimaraes, Évila Isabelle Castelo Branco, Izabella Velez, Paulo Henrique da Silva e Karla Cristhina",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Visual Novel",
+   "Aventura"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Antes de ir para a luz no fim do túnel, o personagem terá que revisitar momentos importantes de sua vida que o marcaram por algum motivo, representado por máscaras. Cada máscara representa uma memória, o direcionando a um minigame. Após completar o seu percurso, poderá finalmente descansar.",
+  "access": "https://globalgamejam.org/games/2026/light-3",
+  "image": "./jogos/2026-before-the-light.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2026-16",
+  "year": 2026,
+  "order": 16,
+  "title": "A Cuca vai pegar",
+  "studio": "Rafael Solano, Marcos Vinicius Januário e Raíssa Kaline Pinto",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Casual"
+  ],
+  "platform": "PC",
+  "engine": "Godot",
+  "summary": "Se disfarce em um fliperama e fuja porque a Cuca vem ai.",
+  "access": "https://globalgamejam.org/games/2026/cuca-vai-pegar-9",
+  "image": "./jogos/2026-a-cuca-vai-pegar.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-15",
+  "year": 2026,
+  "order": 15,
+  "title": "The Shattered Mask",
+  "studio": "Rayara Vitória Pinho, Emerson Kalil Costa, Beatriz Salles e Vinícius Oliveira",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Aventura",
+   "Arcade"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Annabeth encontra uma máscara e, ao tocá-la, é enviada para um mundo desconhecido. Entretanto, a máscara se estilhaça em pedaços, e ela terá que coletar todos os fragmentos em meio a desafios para voltar para casa.",
+  "access": "https://globalgamejam.org/games/2026/shattered-mask-1",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2026-14",
+  "year": 2026,
+  "order": 14,
+  "title": "Losgann",
+  "studio": "Artur Pinheiro, Gabriel Drummond e Flávia Naoshii",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Puzzle",
+   "Ação"
+  ],
+  "platform": "PC",
+  "engine": "Unreal",
+  "summary": "Use uma máscara mágica para revelar o labirinto oculto e encontrar o tesouro. Cuidado com o Sapo Monstro Losgann.",
+  "access": "",
+  "image": "./jogos/2026-losgann.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-13",
+  "year": 2026,
+  "order": 13,
+  "title": "Jogo do barco",
+  "studio": "José Paulo Neto",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Arcade"
+  ],
+  "platform": "PC",
+  "engine": "Engine própria (React)",
+  "summary": "Incline-se para os lados na frente da câmera para desviar dos obstáculos.",
+  "access": "",
+  "image": "./jogos/2026-jogo-do-barco.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-12",
+  "year": 2026,
+  "order": 12,
+  "title": "Borogodó",
+  "studio": "Osvaldo Neto, Gabriel Sales, Eduardo da Costa, Matheus Muniz, Vinícius Oliveira, Erika Silva, Diogo Silva e Pedro Ferreira",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Musical"
+  ],
+  "platform": "PC",
+  "engine": "Godot",
+  "summary": "Um jogo de ritmo ambientado no carnaval dos anos 70 em que você é um folião que avistou uma bela moça mascarada e a chama para dançar. Você deve dançar no ritmo da música para conquistar a dama.",
+  "access": "https://globalgamejam.org/games/2026/borogodo-3",
+  "image": "./jogos/2026-borogodo.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-11",
+  "year": 2026,
+  "order": 11,
+  "title": "Raccoon City",
+  "studio": "Antônio Froz, João Filho e Marcos Vinicius Estrela",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Ação",
+   "Estratégia"
+  ],
+  "platform": "PC e Mobile",
+  "engine": "Unity",
+  "summary": "Raccoon City é um jogo multiplayer online de ritmo acelerado para Android e PC, no qual duas equipes rivais de guaxinins batalham pelo domínio em um ferro-velho caótico.",
+  "access": "https://globalgamejam.org/games/2026/racoon-city-4",
+  "image": "./jogos/2026-raccoon-city.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-10",
+  "year": 2026,
+  "order": 10,
+  "title": "Puños y Pendejos",
+  "studio": "Osvaldo Neto, Gabriel Sales, Eduardo da Costa, Matheus Muniz e Vinícius Oliveira",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Beat'em Up"
+  ],
+  "platform": "PC",
+  "engine": "Godot",
+  "summary": "Em Ciudad del Ring, a justiça não se decide em tribunais — se decide no rings. Neste beat ’em up 2D, você controla um detetive da polícia em uma cidade onde todo cidadão usa uma máscara de luchador e só os mais fortes podem proteger os fracos.",
+  "access": "",
+  "image": "./jogos/2026-punos-y-pendejos.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-9",
+  "year": 2026,
+  "order": 9,
+  "title": "O Ateliê das Mil Faces",
+  "studio": "Graça Mariel Haickel, Lara Mallena, Victor Hugo Ramos, Thiago Diniz, Gabriel Dantas, Nayara Rayane Dutra e Emanuelle Lima",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Visual Novel",
+   "Clicar e apontar"
+  ],
+  "platform": "PC",
+  "engine": "Godot",
+  "summary": "Um ateliê que confecciona máscaras um pouco excêntricas, capazes de mexer com sentimentos, atitudes, e talvez até destinos. Cada cliente carrega uma máscara invisível, e cabe a você criar aquela que melhor se encaixa em sua alma.",
+  "access": "https://globalgamejam.org/games/2026/o-atelie-das-mil-faces-3",
+  "image": "./jogos/2026-o-atelie-das-mil-faces.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-8",
+  "year": 2026,
+  "order": 8,
+  "title": "Kao Dorobo",
+  "studio": "Diego Oliveira, Emerton Rian, Vinicius Azambuja, Gustavo Ramon, Vinicius Andrade, Flávio Guilherme Santana, Pedro Pinheiro e cb1745i",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Puzzle",
+   "Aventura"
+  ],
+  "platform": "PC e Web",
+  "engine": "Godot",
+  "summary": "Em um mundo inspirado na mitologia japonesa, este puzzle top-down coloca você na pele de um guardião que deve restaurar o equilíbrio espiritual através do domínio de máscaras ancestrais. Cada máscara resgatada canaliza a essência de uma divindade e concede poderes elementais únicos, essenciais para decifrar enigmas ambientais e superar obstáculos complexos. Sua jornada exige estratégia e adaptabilidade para alternar entre as faces divinas, coletar as chaves místicas e atravessar os portais que dividem os planos, com o fim de concluir a jornada.",
+  "access": "https://pedragah.itch.io/kao-dorobo",
+  "image": "./jogos/2026-kao-dorobo.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2026-7",
+  "year": 2026,
+  "order": 7,
+  "title": "O Adeus das Máscaras",
+  "studio": "Pedro Torres, Ananda Costa, Lucas Glauber, Lucas Gaia, Victor Matheus Silva e Matheus Nogueira",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Plataforma"
+  ],
+  "platform": "PC",
+  "engine": "Godot",
+  "summary": "Um ator relembra seu passado e busca os pedaços de sua mascara que lhe acompanharam a vida toda.",
+  "access": "https://globalgamejam.org/games/2026/o-adeus-das-mascaras-8",
+  "image": "./jogos/2026-o-adeus-das-mascaras.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-6",
+  "year": 2026,
+  "order": 6,
+  "title": "Soirée",
+  "studio": "Débora de Paula, Elias Martin, Flávia Naoshii, Gabriel Drummond e Sidney Melo",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Visual Novel",
+   "Puzzle"
+  ],
+  "platform": "Web",
+  "engine": "Unity",
+  "summary": "Um jogo de mistério e dedução no qual cada partida seleciona um entre quatro assassinos, criando uma teia aleatória e intrincada de relacionamentos e pistas necessária para solucionar o mistério.",
+  "access": "https://sidneymelo.itch.io/soiree",
+  "image": "./jogos/2026-soiree.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-5",
+  "year": 2026,
+  "order": 5,
+  "title": "Fofão Mania",
+  "studio": "Márcio Oliveira e Heitor Dias",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Puzzle",
+   "Casual"
+  ],
+  "platform": "Web",
+  "engine": "Engine própria (Javascript)",
+  "summary": "Um baile de Carnaval em São Luís, no Maranhão, está prestes a começar, mas alguns \"Fofões\" estão usando as máscaras erradas! Troque as máscaras deles até que todos estejam felizes, dançando e aproveitando o Carnaval!",
+  "access": "https://fofao-mania.vercel.app/",
+  "image": "./jogos/2026-fofao-mania.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2026-4",
+  "year": 2026,
+  "order": 4,
+  "title": "Townmaker",
+  "studio": "Hardcoffee Game Studio",
+  "studioFilter": "Hardcoffee Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Puzzle"
+  ],
+  "platform": "Web",
+  "engine": "Unity",
+  "summary": "Reconstrua a cidade dando vida a fotos antigas para criar um novo futuro. Reorganize peças, reviva memórias e restaure uma cidade repleta de história, relatos e sonhos à espera de serem reconstruídos.",
+  "access": "https://hardcoffee.itch.io/townmaker",
+  "image": "./jogos/2026-townmaker.png",
+  "hasCover": true
+ },
+ {
+  "id": "2026-3",
+  "year": 2026,
+  "order": 3,
+  "title": "Animais da Amazônia",
+  "studio": "Hardcoffee Game Studio",
+  "studioFilter": "Hardcoffee Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Amazon Animals é um quebra-cabeças com animais da floresta amazônica. Embarque em uma viagem para a maior floresta do mundo e conheça a fauna local em lindas artes 2D desenhadas à mão",
+  "access": "https://store.steampowered.com/app/3382880/Amazon_Animals",
+  "image": "./jogos/2026-animais-da-amazonia.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2026-2",
+  "year": 2026,
+  "order": 2,
+  "title": "Final Forge",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Tower Defense",
+   "Estratégia"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Defenda sua torre e proteja o tesouro do anão de criaturas saqueadoras neste jogo de defesa de torre roguelike. Explore a região, colete recursos e escolha aprimoramentos certos. Mas tome cuidado, não deixe sua fortaleza vazia por muito tempo",
+  "access": "https://store.steampowered.com/app/2260170/Final_Forge/",
+  "image": "./jogos/2026-final-forge.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2025-13",
+  "year": 2025,
+  "order": 13,
+  "title": "Bubblepath",
+  "studio": "Jorge Ferreira, Sawrth e Bellak",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Shoot 'em Up",
+   "Roguelike"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Bubblepath é um shmup roguelike... Derrote criaturas abissais, estoure, lute mais, e tente sair das profundezas.",
+  "access": "https://globalgamejam.org/games/2025/bubblepath-6",
+  "image": "./jogos/2025-bubblepath.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2025-12",
+  "year": 2025,
+  "order": 12,
+  "title": "Squid Game",
+  "studio": "Antônio Froz e João Filho",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Plataforma"
+  ],
+  "platform": "PC",
+  "engine": "Unreal",
+  "summary": "Jogo de plataforma 3D; ajude o polvo a eliminar seu rival maligno.",
+  "access": "https://globalgamejam.org/games/2025/squid-game-9",
+  "image": "./jogos/2025-squid-game.png",
+  "hasCover": true
+ },
+ {
+  "id": "2025-11",
+  "year": 2025,
+  "order": 11,
+  "title": "Aqua rings",
+  "studio": "José Paulo Neto",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Simulação"
+  ],
+  "platform": "Web",
+  "engine": "Engine Própria (Javascript, React)",
+  "summary": "O brinquedo de infância Aqua Rings, recriado usando React e Three.js.",
+  "access": "https://globalgamejam.org/games/2025/aqua-rings-1",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2025-10",
+  "year": 2025,
+  "order": 10,
+  "title": "Foffoquei",
+  "studio": "Osvaldo Neto, Erika Silva, Diogo Silva, Gabriel Sales, Matheus Muniz e Pedro Ferreira",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Clicar e apontar",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Godot",
+  "summary": "Um jogo sobre fofocas na mídia e bolhas sociais",
+  "access": "https://globalgamejam.org/games/2025/foffoquei-9",
+  "image": "./jogos/2025-foffoquei.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2025-9",
+  "year": 2025,
+  "order": 9,
+  "title": "O Chamado de Ninlil",
+  "studio": "Átila Vinícius Rocha, José Carlos Júnior, Victor Matheus Silva e Medivelion",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Plataforma"
+  ],
+  "platform": "PC",
+  "engine": "Game Maker",
+  "summary": "No início, havia apenas caos. O planeta era uma rocha fervente, envolta por um manto de magma incandescente, sem vida, sem ar, sem esperança. Um mundo sufocado pelo calor e desprovido de equilíbrio. No entanto, adormecida nas profundezas do magma, uma antiga entidade esperava pelo momento de despertar: Ninlil, a Deusa do Ar. Durante eras incontáveis, Ninlil permaneceu em um sono profundo, guardando o segredo do sopro da vida em seu núcleo. Porém, um dia, uma voz misteriosa ecoou nas entranhas do mundo. Esse chamado, como um vento sussurrante em meio ao silêncio eterno, pediu para Ninlil ascender à superfície e cumprir seu propósito. \"A atmosfera precisa nascer. O mundo precisa respirar.\" E assim começou a jornada da deusa em forma de bolha divina.",
+  "access": "https://globalgamejam.org/games/2025/rise-ninlil-7",
+  "image": "./jogos/2025-o-chamado-de-ninlil.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2025-8",
+  "year": 2025,
+  "order": 8,
+  "title": "Bubbl3",
+  "studio": "Débora de Paula, Sidney Melo, Márcio Oliveira, Artur Pinheiro, Ana Ribeiro, Jeanine Adler e Gabriel Drummond",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Clicar e apontar",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Unreal",
+  "summary": "Três jogos de Bubble Tea em um loop infinito.",
+  "access": "https://globalgamejam.org/games/2025/bubbl3-3",
+  "image": "./jogos/2025-bubbl3.png",
+  "hasCover": true
+ },
+ {
+  "id": "2025-7",
+  "year": 2025,
+  "order": 7,
+  "title": "Heat Blister",
+  "studio": "Kassio Sousa, Jasmyn Lemos, Thiago Oliveira, Iasmin Ribeiro e Luis Fernando Cartaxo",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Clicar e apontar",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Heat Blister é um jogo do tipo \"aponte e clique\" no qual o objetivo do jogador é tratar as queimaduras do personagem. Para isso, é preciso seguir uma sequência específica de medicamentos a serem aplicados nas bolhas causadas pelas queimaduras, antes que elas estourem.",
+  "access": "https://globalgamejam.org/games/2025/heat-blister-game-2",
+  "image": "./jogos/2025-heat-blister.png",
+  "hasCover": true
+ },
+ {
+  "id": "2025-6",
+  "year": 2025,
+  "order": 6,
+  "title": "S.P.C. - Spacial Patrol Copycat",
+  "studio": "Thiago Oliveira, Heitor Dias, Ludmila Dias e Rafael Solano",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Clicar e apontar",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Game Maker",
+  "summary": "Sob as ordens do comandante Capicão, salve os gatinhos de serem devorados por um alienígena metamorfo disfarçado, mas cuidado para não atacar os inocentes.",
+  "access": "https://drive.google.com/file/d/1GBIlQorjFYdzcOmiCj5N51-DJiP3cKiN/view?usp=sharing",
+  "image": "./jogos/2025-s-p-c-spacial-patrol-copycat.png",
+  "hasCover": true
+ },
+ {
+  "id": "2025-5",
+  "year": 2025,
+  "order": 5,
+  "title": "Hello, Adventurer!",
+  "studio": "Hardcoffee Game Studio",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Estratégia",
+   "Aventura"
+  ],
+  "platform": "Web",
+  "engine": "Unity",
+  "summary": "Envie aventureiros destemidos em missões desafiadoras e acumule riquezas graças à glória deles. Identifique os atributos únicos de cada herói, que deverá explorar terras desconhecidas e derrotar inimigos poderosos. Torne-se o mestre da aventura!",
+  "access": "https://hardcoffee.itch.io/hello-adventurer",
+  "image": "./jogos/2025-hello-adventurer.png",
+  "hasCover": true
+ },
+ {
+  "id": "2025-4",
+  "year": 2025,
+  "order": 4,
+  "title": "Bat Beat",
+  "studio": "Hardcoffee Game Studio",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Plataforma"
+  ],
+  "platform": "PC, Mobile",
+  "engine": "Unity",
+  "summary": "Ajude o morcego a entrar na caverna antes do nascer do sol. Use o sonar para detectar obstáculos no caminho e atravesse vários níveis para chegar à sua caverna antes do amanhecer.",
+  "access": "https://hardcoffee.itch.io/bat-beat",
+  "image": "./jogos/2025-bat-beat.png",
+  "hasCover": true
+ },
+ {
+  "id": "2025-3",
+  "year": 2025,
+  "order": 3,
+  "title": "Arashi Gaiden",
+  "studio": "Wired Dreams Studio / Statera Studio",
+  "studioFilter": "Wired Dreams Studio / Statera Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Estratégia",
+   "Puzzle"
+  ],
+  "platform": "PC, Xbox, Switch e Playstation",
+  "engine": "Game Maker",
+  "summary": "Arashi Gaiden é um jogo de ação por turnos, com combate frenético, no estilo dash and slash. Use suas lâminas, shurikens, teleportes e correntes para cortar todos inimigos rapidamente e enfrentar Chefões poderosos com mecânicas únicas que redefinem o que é um jogo de turnos.",
+  "access": "https://store.steampowered.com/app/3040170/Arashi_Gaiden/",
+  "image": "./jogos/2025-arashi-gaiden.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2025-2",
+  "year": 2025,
+  "order": 2,
+  "title": "UniDuni",
+  "studio": "Clops Game Studio",
+  "studioFilter": "Clops Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Plataforma",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Inspirado nos clássicos, UniDuni é uma animada aventura em plataforma que celebra os laços de amizade. Chame um amigo e superem juntos fases feitas à mão ou se desafie sozinho para provar suas habilidades!",
+  "access": "https://store.steampowered.com/app/1305150/UniDuni/",
+  "image": "./jogos/2025-uniduni.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2024-5",
+  "year": 2024,
+  "order": 5,
+  "title": "Zé Doido",
+  "studio": "Lucas Ferreira",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Plataforma",
+   "Puzzle"
+  ],
+  "platform": "PC e Mobile",
+  "engine": "Unity",
+  "summary": "A Jornada de Zé Doido.",
+  "access": "https://drive.google.com/file/d/1BnQZeaCLNKFyYgtBv1g_craHnRfTYYdQ/view?usp=drive_link",
+  "image": "./jogos/2024-ze-doido.png",
+  "hasCover": true
+ },
+ {
+  "id": "2024-4",
+  "year": 2024,
+  "order": 4,
+  "title": "Aconteceu numa game jam!",
+  "studio": "Sidney Melo, Heitor Dias e Débora de Paula",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Trivia",
+   "Puzzle"
+  ],
+  "platform": "Web",
+  "engine": "Construct",
+  "summary": "Uma coletânea de minijogos com situações engraçadas ou bizarras que aconteceram durante game jams!",
+  "access": "https://globalgamejam.org/games/2024/it-happened-during-game-jam-8",
+  "image": "./jogos/2024-aconteceu-numa-game-jam.png",
+  "hasCover": true
+ },
+ {
+  "id": "2024-3",
+  "year": 2024,
+  "order": 3,
+  "title": "Pagliacci's Fall: The Fall of Pagliacci",
+  "studio": "Artur Pinheiro, Heitor Dias, Gabriel Drummond, Sidney Melo, Débora de Paula e Márcio Oliveira",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Ação",
+   "Plataforma"
+  ],
+  "platform": "PC",
+  "engine": "Unreal",
+  "summary": "Os palhaços precisam rir para sair do Pagliatório.",
+  "access": "https://globalgamejam.org/games/2024/pagliaccis-fall-fall-pagliacci-9",
+  "image": "./jogos/2024-pagliacci-s-fall-the-fall-of-pagliacci.png",
+  "hasCover": true
+ },
+ {
+  "id": "2024-2",
+  "year": 2024,
+  "order": 2,
+  "title": "FROGUE",
+  "studio": "Wired Dreams Studio",
+  "studioFilter": "Wired Dreams Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Roguelike",
+   "Plataforma"
+  ],
+  "platform": "PC, Xbox, Switch e Playstation",
+  "engine": "Game Maker",
+  "summary": "Frogue é um jogo de plataforma de ação estiloso baseado em turnos, com elementos de roguelike, bullet-hell e manipulação de tempo. Atravesse os seus inimigos, congele o tempo e arremesse sua espada para resolver as situações à SUA maneira.",
+  "access": "https://store.steampowered.com/app/1936990/FROGUE",
+  "image": "./jogos/2024-frogue.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2023-8",
+  "year": 2023,
+  "order": 8,
+  "title": "Cristário",
+  "studio": "Cael Borges, Débora de Paula, Thiago Oliveira, Jeanine Adler e Rafael Solano",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Estratégia"
+  ],
+  "platform": "PC",
+  "engine": "Game Maker",
+  "summary": "Cuide das suas sementes e permita que suas raízes se expandam no seu cristário, mas cuidado! Algumas pestes/pragas conseguiram entrar no ambiente e junto com isso cristais começaram a se formar. Em Cristário, você vai ter sementes que expandem suas raízes em direções diferentes, sem uma ordem definida.",
+  "access": "https://brokenpiece.itch.io/cristario",
+  "image": "./jogos/2023-cristario.gif",
+  "hasCover": true
+ },
+ {
+  "id": "2023-7",
+  "year": 2023,
+  "order": 7,
+  "title": "CRAB ROOTS",
+  "studio": "Ana Ribeiro, Gabriel Drumond, Artur Pinheiro, Antonio Froz, Marcio Oliveira, Sidney Melo, Debora de Paula e Heitor Dias",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Ação",
+   "Aventura"
+  ],
+  "platform": "PC / Linux",
+  "engine": "Unreal",
+  "summary": "Em uma terra distante, no norte do Brasil, os caranguejos haviam se tornado o alimento mais consumido. Mas um caranguejo decidiu lutar contra isso e se tornar uma estrela do reggae roots. Ajude o caranguejo a enfrentar o \"Homem Lama\" antes de ser capturado pelas raízes malignas e a chegar ao maior show de sua vida.",
+  "access": "https://github.com/marciojmo/raizes-malditas",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2023-6",
+  "year": 2023,
+  "order": 6,
+  "title": "Zilado",
+  "studio": "Astral Game Studio",
+  "studioFilter": "Astral Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Plataforma",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Junte-se a um amigo e viaje pelo estado do Maranhão em um trem, evitando que ele pare por causa de seus vagões quebrados resolvendo pequenos quebra-cabeças neste jogo cooperativo de plataforma.",
+  "access": "https://store.steampowered.com/app/2201660/Marabundle/",
+  "image": "./jogos/2023-marabundle.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2023-5",
+  "year": 2023,
+  "order": 5,
+  "title": "One Step to Rest",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Roguelike",
+   "Ação"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Atravesse uma nação desconhecida para escapar de um lugar devastado e escasso, buscando uma terra cheia de recursos para trazer descanso e prosperidade ao seu povo, que apostam suas próprias vidas em sua jornada. Derrote monstros que tentam impedi-lo em um jogo hack'n slash, gerado proceduralmente!",
+  "access": "https://store.steampowered.com/app/2201660/Marabundle/",
+  "image": "./jogos/2023-marabundle.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2023-4",
+  "year": 2023,
+  "order": 4,
+  "title": "Super Bafo Championship",
+  "studio": "Clops Game Studio",
+  "studioFilter": "Clops Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Estratégia",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Game Maker",
+  "summary": "Na rua do seu bairro está acontecendo a maior competição de Bafo da história. Enfrente adversários poderosos em um combate por turnos e colecione todas as cartas para ser conhecido como o Grande Campeão de Bafo.",
+  "access": "https://store.steampowered.com/app/2201660/Marabundle/",
+  "image": "./jogos/2023-marabundle.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2023-3",
+  "year": 2023,
+  "order": 3,
+  "title": "Dogfights in SLZ",
+  "studio": "Wired Dreams Studio",
+  "studioFilter": "Wired Dreams Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Shooter",
+   "Arcade"
+  ],
+  "platform": "PC",
+  "engine": "Game Maker",
+  "summary": "Manche os céus com pedaços de naves alienígenas em Dogfights in SLZ, um arcade shoot'em up com combate aéreo desafiador e viciante.",
+  "access": "https://store.steampowered.com/app/2201660/Marabundle/",
+  "image": "./jogos/2023-dogfights-in-slz.png",
+  "hasCover": true
+ },
+ {
+  "id": "2023-2",
+  "year": 2023,
+  "order": 2,
+  "title": "Undergrave",
+  "studio": "Wired Dreams Studio",
+  "studioFilter": "Wired Dreams Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Roguelike",
+   "Estratégia"
+  ],
+  "platform": "PC, Mobile, Xbox, Switch e Playstation",
+  "engine": "Game Maker",
+  "summary": "Undergrave é um roguelike tático no qual mover-se, pular, gerenciar sua resistência, realizar investidas rápidas e lançar sua espada estrategicamente são ações vitais para o sucesso.",
+  "access": "https://store.steampowered.com/app/1776930/Undergrave/",
+  "image": "./jogos/2023-undergrave.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2022-6",
+  "year": 2022,
+  "order": 6,
+  "title": "Vem Guarnice",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Clicar e apontar",
+   "Puzzle"
+  ],
+  "platform": "Mobile",
+  "engine": "Unity",
+  "summary": "O São João maranhense e a energia dos brincantes nos principais arraiais.",
+  "access": "https://apps.apple.com/us/app/vem-guarnic%C3%AA/id1581219722",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2022-5",
+  "year": 2022,
+  "order": 5,
+  "title": "Logic Light",
+  "studio": "Hardcoffee Game Studio",
+  "studioFilter": "Hardcoffee Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Puzzle",
+   "Casual"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Uma experiência minimalista de quebra-cabeças para ligar a energia das casas da cidade após uma tempestade.",
+  "access": "https://store.steampowered.com/app/1712950/Logic_Light/",
+  "image": "./jogos/2022-logic-light.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2022-4",
+  "year": 2022,
+  "order": 4,
+  "title": "Lunar Axe",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Clicar e apontar",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Após um grande terremoto no centro da cidade, ruínas de um prédio antigo desabam e você acaba dentro de um casarão abandonado. Encontre uma saída e desvende o mistério dos inexplicáveis tremores, revelando antigos segredos e um artefato místico, antes que seja tarde demais.",
+  "access": "https://store.steampowered.com/app/1305820/Lunar_Axe/",
+  "image": "./jogos/2022-lunar-axe.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2022-3",
+  "year": 2022,
+  "order": 3,
+  "title": "Brick Blast Galaxy",
+  "studio": "Astral Game Studio",
+  "studioFilter": "Astral Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Casual",
+   "Puzzle"
+  ],
+  "platform": "Mobile",
+  "engine": "Unity",
+  "summary": "Um jogo de quebrar blocos para dispositivos móveis no modelo free-to-play, desenvolvido na Unity.",
+  "access": "",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2022-2",
+  "year": 2022,
+  "order": 2,
+  "title": "Folklore Legends",
+  "studio": "Astral Game Studio",
+  "studioFilter": "Astral Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Tower Defense"
+  ],
+  "platform": "Mobile",
+  "engine": "Unity",
+  "summary": "Quando um Ser Cósmico decide invadir os universos que conhecemos como Mitologias, você encontra um artefato que o torna a única pessoa capaz de impedir a destruição de todo o Universo. Una-se a diversas criaturas mitológicas e juntem forças para libertá-las do controle desse ser maligno!",
+  "access": "https://astralgamestudio.itch.io/folklore-legends-tower-defense",
+  "image": "./jogos/2022-folklore-legends.png",
+  "hasCover": true
+ },
+ {
+  "id": "2021-6",
+  "year": 2021,
+  "order": 6,
+  "title": "Toureon: The ancient giant mech",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Ação",
+   "Luta"
+  ],
+  "platform": "VR",
+  "engine": "Unity",
+  "summary": "Toureon is a 3D VR first-person melee combat game. The game is set in a futuristic São Luís (see more information about the city in the Extras section of the game), mixing elements of the historic city with modern ones from large urban and technological centers.",
+  "access": "https://opsgames.itch.io/toureon",
+  "image": "./jogos/2021-toureon-the-ancient-giant-mech.png",
+  "hasCover": true
+ },
+ {
+  "id": "2021-5",
+  "year": 2021,
+  "order": 5,
+  "title": "Asyren",
+  "studio": "Astral Game Studio",
+  "studioFilter": "Astral Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Plataforma",
+   "Aventura"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Um jogo de ação e aventura em 2D com algumas mecânicas de RPG. A história se passa em um mundo de fantasia onde uma deusa banida, chamada Unn'a, tenta assumir o controle do mundo em busca de poder. Na pele de uma sacerdotisa renegada que foi enganada por Unn'a no passado, o jogador deve agora deter a deusa e salvar o continente de Asyren.",
+  "access": "https://astralgamestudio.itch.io/asyren",
+  "image": "./jogos/2021-asyren.png",
+  "hasCover": true
+ },
+ {
+  "id": "2021-4",
+  "year": 2021,
+  "order": 4,
+  "title": "Raven's Hike",
+  "studio": "Wired Dreams Studio",
+  "studioFilter": "Wired Dreams Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Plataforma",
+   "Puzzle"
+  ],
+  "platform": "PC, Mobile, Xbox, Switch e Playstation",
+  "engine": "Game Maker",
+  "summary": "Em um mundo arruinado onde a vida está prestes a ser dizimada, Raven deve chegar ao topo da torre e restaurar o equilíbrio.",
+  "access": "https://store.steampowered.com/app/1689270/Ravens_Hike/",
+  "image": "./jogos/2021-raven-s-hike.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2021-3",
+  "year": 2021,
+  "order": 3,
+  "title": "Upaon: A Snake's Journey",
+  "studio": "Wired Dreams Studio",
+  "studioFilter": "Wired Dreams Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Puzzle"
+  ],
+  "platform": "PC, Xbox, Switch e Playstation",
+  "engine": "Game Maker",
+  "summary": "Ajude a essa simpática cobra exploradora em sua jornada até o tesouro escondido, resolva quebra-cabeças que mistura o clássico Jogo da Cobrinha com mecânicas de Sokoban.",
+  "access": "https://store.steampowered.com/app/1660040/Upaon_A_Snakes_Journey/",
+  "image": "./jogos/2021-upaon-a-snake-s-journey.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2021-2",
+  "year": 2021,
+  "order": 2,
+  "title": "Red Ronin",
+  "studio": "Wired Dreams Studio",
+  "studioFilter": "Wired Dreams Studio",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Estratégia",
+   "Puzzle"
+  ],
+  "platform": "PC, Mobile, Xbox, Switch e Playstation",
+  "engine": "Game Maker",
+  "summary": "Red Ronin é um jogo por turnos com combate frenético onde uma Ronin sanguinária e seu robô buscam por vingança.",
+  "access": "https://store.steampowered.com/app/1222570/Red_Ronin/",
+  "image": "./jogos/2021-red-ronin.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2019-3",
+  "year": 2019,
+  "order": 3,
+  "title": "Coxinha Hero",
+  "studio": "BagDev Studios",
+  "studioFilter": "BagDev Studios",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Plataforma",
+   "Aventura"
+  ],
+  "platform": "PC",
+  "engine": "Godot",
+  "summary": "Coxinha Hero é um jogo de plataforma e ação onde \"Hero\", nosso protagonista, partirá em uma aventura pelo Império das Coxinhas, enfrentando desafios pelos Reinos das Coxinhas de Frango, Caranguejo, Camarão, Carne e Presunto. Descobrindo os mistérios e males que os assolam.",
+  "access": "https://bagdev-studios.itch.io/coxinhahero",
+  "image": "./jogos/2019-coxinha-hero.png",
+  "hasCover": true
+ },
+ {
+  "id": "2019-2",
+  "year": 2019,
+  "order": 2,
+  "title": "Origami Flight",
+  "studio": "Whalesoft Entertainment",
+  "studioFilter": "Whalesoft Entertainment",
+  "jam": false,
+  "steam": true,
+  "tags": [
+   "Shoot 'em Up",
+   "Arcade"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Origami Flight é um shoot' em up 2D horizontal onde você controla um avião de papel com uma simples porém desafiadora missão: salvar o mundo Origami. Para tal você precisa vencer 6 fases distintas com uma grande variedade de inimigos para salvar os Tsurus da maligna Raposa Origami.",
+  "access": "https://store.steampowered.com/app/911950/Origami_Flight/",
+  "image": "./jogos/2019-origami-flight.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2018-2",
+  "year": 2018,
+  "order": 2,
+  "title": "Post Mortem",
+  "studio": "Hardcoffee Game Studio",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Clicar e apontar",
+   "Terror"
+  ],
+  "platform": "Web",
+  "engine": "Unity",
+  "summary": "Ivan é um soldado soviético da área de comunicações que foi capturado por tropas alemãs durante a Primeira Guerra Mundial, em 1917. A lenda diz que o soldado vive um tormento eterno por ter morrido sob tortura e assombra os canais de comunicação da região da Europa e da Rússia, sendo conhecido como a Rádio Fantasma UVB-76.",
+  "access": "https://hardcoffee.itch.io/post-mortem",
+  "image": "./jogos/2018-post-mortem.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2015-2",
+  "year": 2015,
+  "order": 2,
+  "title": "Super Paçoca Ultimate",
+  "studio": "Zogui Game Studio",
+  "studioFilter": "Zogui Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Runner",
+   "Aventura"
+  ],
+  "platform": "Mobile",
+  "engine": "Unity",
+  "summary": "Paçoquinha é um jovem que adora festas juninas. Uma das brincadeiras que ele mais gosta é de pular a fogueira. Pena que nem sempre as coisas dão certo. Em um erro de cálculo, Paçoquinha acaba pulando muito baixo e de repente uma labareda de fogo surge em seu traseiro. Cabe a você ajudar Paçoquinha a atravessar o arraial, desviando dos obstáculos, e salvar o traseiro!",
+  "access": "",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2014-4",
+  "year": 2014,
+  "order": 4,
+  "title": "Tap The Chickens!",
+  "studio": "Zogui Game Studio",
+  "studioFilter": "Zogui Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Casual"
+  ],
+  "platform": "Mobile",
+  "engine": "Unity",
+  "summary": "Quando um balde de minhocas cai do céu no meio de um galinheiro, será se os Deuses das Galinhas estão de bom humor? E será se quando um galinheiro cai no meio de um smartphone, em suas mãos, os Deuses das Minhocas estão lhe chamando para uma missão? Receba as dádivas dos dedos boxeadores e proteja as pobres minhoquinhas de serem atacadas por um bando de galinhas famintas utilizando diferentes golpes e truques para atrapalhar esse terrível plano malvado.",
+  "access": "",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2014-3",
+  "year": 2014,
+  "order": 3,
+  "title": "Bricks Don't Hit Back",
+  "studio": "Zogui Game Studio",
+  "studioFilter": "Game Jam",
+  "jam": true,
+  "steam": false,
+  "tags": [
+   "Ação"
+  ],
+  "platform": "Web",
+  "engine": "Construct 2",
+  "summary": "Após uma grande reflexão sobre a icônica frase “Mas tijolo não revida!” do filme Fucking White Dragon, o senhor Miagui decide parar de pensar nisso e ir dormir. Mas o que ele não sabia era que uma grande horda ninja havia invadido seu quintal e a única pessoa (ou coisa) a lhe proteger seria um tijolo que sobrou da construção. Agora, Tijolito-san deverá salvar o quintal para poder viver em paz sua vida de tijolo novamente!",
+  "access": "",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2014-2",
+  "year": 2014,
+  "order": 2,
+  "title": "Desafio Geek_ana",
+  "studio": "Zogui Game Studio",
+  "studioFilter": "Zogui Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Trivia"
+  ],
+  "platform": "Web",
+  "engine": "Construct 2",
+  "summary": "Um mochileiro, procurando aventuras na Terra, desafia as equipes da Geek_ana, uma gincana de humanos que curtem computadores e coisas nerds, a ajudar a responder 24 enigmas de Pensadores Profundos o mais rápido possível. Será se eles são capazes de resolver todas esses enigmas e se consagrarem campeões? Quem ganhará o torneio tri-bruxo?",
+  "access": "",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2013-5",
+  "year": 2013,
+  "order": 5,
+  "title": "A Arca dos Livros - Livro 1",
+  "studio": "Zogui Game Studio",
+  "studioFilter": "Zogui Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Clicar e apontar",
+   "Casual"
+  ],
+  "platform": "Web",
+  "engine": "Construct 2",
+  "summary": "Um velhinho contador de histórias estava em um parque lendo para as crianças. De repente, uma ventania fez com que os livros se espalhassem pelo ambiente. Cabe ao jogador ajudar o velhinho a recuperar os livros e garantir o momento de leitura dos pequeninos.",
+  "access": "http://arcadoslivros.hospedagemdesites.ws/jogos/olivroelindo/",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2013-4",
+  "year": 2013,
+  "order": 4,
+  "title": "Paçoca Ultimate 3D",
+  "studio": "Zogui Game Studio",
+  "studioFilter": "Zogui Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Runner",
+   "Aventura"
+  ],
+  "platform": "PC",
+  "engine": "Unity",
+  "summary": "Paçoquinha mais uma vez foi brincar de pular a fogueira e acabou queimando o traseiro! Atravesse o arraial e alcance a fonte de água!",
+  "access": "",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2013-3",
+  "year": 2013,
+  "order": 3,
+  "title": "Ilha Mágica",
+  "studio": "Alunos do IFMA - Ana Beatriz Rodrigues dos Santos, Anny Kevellyn dos Santos Alencar, Rebeca de Sá Pereira, Valter dos Santos Mendonça Neto e Ilka Márcia Ribeiro de Souza Serra",
+  "studioFilter": "Alunos do IFMA - Ana Beatriz Rodrigues dos Santos, Anny Kevellyn dos Santos Alencar, Rebeca de Sá Pereira, Valter dos Santos Mendonça Neto e Ilka Márcia Ribeiro de Souza Serra",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Educacional",
+   "Aventura"
+  ],
+  "platform": "PC",
+  "engine": "Scratch",
+  "summary": "As lendas constituem elementos centrais da cultura popular e desempenham papel relevante na construção da identidade cultural de um povo. No contexto maranhense, entretanto, o desconhecimento dessas narrativas compromete a valorização e a preservação do patrimônio imaterial local. Diante desse cenário, este artigo apresenta os resultados do desenvolvimento e da avaliação do jogo digital educativo Ilha Mágica, concebido por estudantes do curso técnico em Informática de uma instituição pública de ensino, com o objetivo de divulgar as lendas maranhenses. O jogo, inspirado na obra Anínem e o Colar de Ana Jansen e ambientado na cidade de São Luís, foi desenvolvido na plataforma Scratch e avaliado por 92 participantes, entre estudantes e profissionais das áreas de educação e tecnologias digitais, durante uma mostra científica.",
+  "access": "",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2013-2",
+  "year": 2013,
+  "order": 2,
+  "title": "Bumba",
+  "studio": "Taverna Interactive",
+  "studioFilter": "Taverna Interactive",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Musical",
+   "Puzzle"
+  ],
+  "platform": "Mobile",
+  "engine": "",
+  "summary": "Bumba é um jogo para dispositivos móveis, desenvolvido por uma equipe brasileira com o objetivo de torná-lo um dos melhores jogos do mundo. Neste jogo musical incrível, você controla uma bola que precisa chegar ao outro lado da fase, enquanto tenta acumular o máximo de pontos possível. Cada fase possui um ritmo musical único, que será uma das suas principais ferramentas para alcançar a pontuação mais alta.",
+  "access": "https://bumba.en.softonic.com/android",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ },
+ {
+  "id": "2012-2",
+  "year": 2012,
+  "order": 2,
+  "title": "Paçoca Ultimate",
+  "studio": "Zogui Game Studio",
+  "studioFilter": "Zogui Game Studio",
+  "jam": false,
+  "steam": false,
+  "tags": [
+   "Runner",
+   "Aventura"
+  ],
+  "platform": "Web",
+  "engine": "Construct 2",
+  "summary": "Paçoquinha foi pular a fogueira de São João e acabou se dando mal! Ajude-o a atravessar o arraial e alcançar um balde d'água para livrá-lo desse sufoco!",
+  "access": "https://archives.nuninhoneto.games/zoguistudio.com.br/games-zogui/pacoca-ultimate",
+  "image": "./brand/assinatura.png",
+  "hasCover": false
+ }
+]

@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Paleta institucional - Manual de Identidade Visual AMAGAMES */
+@theme {
+  --font-sans: "Roboto", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Raleway", "Roboto", sans-serif;
+  --color-brand-red: #de3e3e;
+  --color-brand-yellow: #f5b00b;
+  --color-brand-blue: #2c81c0;
+  --color-brand-navy: #104e9c;
+  --color-ink: #000000;
+  --color-paper: #ffffff;
+  --color-mute: #5f6368;
+  --color-line: #e6e6e6;
+  --color-soft: #f6f6f6;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-paper font-sans text-ink antialiased; }
+h1, h2, h3 { @apply font-display; }
+:focus-visible { outline: 2px solid var(--color-brand-navy); outline-offset: 2px; }
