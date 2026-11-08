@@ -17,7 +17,7 @@ Hoje a seção "Estúdios associados" da home e a página `/#/estudios` usam uma
 - **RF-03** Logo acima, no canto direito, há um link "Lista de estúdios" que leva para `/#/estudios`.
 - **RF-04** Na tela `/#/estudios`, listar todos os estúdios, com paginação de 10 por vez (mais recentes primeiro, ou seja, pelo ano de fundação decrescente), com setas para avançar e números que levam às demais páginas.
 - **RF-05** Acima da lista há filtros: **Cidade**, **Área de atuação** e **Situação** (Ativo / Inativo). Os valores das áreas de atuação que forem sinônimos (por exemplo "Serious games" e "Jogos sérios") são unificados em um só, com prioridade para o termo em inglês.
-- **RF-06** Todos os dados devem ser obtidos da planilha `public/estudios/levantamento-estudios-maranhenses.xlsx`, como fonte de verdade. Um script gera `src/studios.json` a partir dela (mesmo modelo do `games.json`).
+- **RF-06** Todos os dados devem ser obtidos da planilha `dados/levantamento-estudios-maranhenses.xlsx`, como fonte de verdade. Um script gera `src/studios.json` a partir dela (mesmo modelo do `games.json`).
 - **RF-07** Ao clicar no nome do estúdio (em todos os cards), abre o site público do estúdio em nova aba. Se não houver site, usa o perfil principal em rede social; se não houver nenhum, o nome fica sem link.
 - **RF-08** Cada card mostra a quantidade de jogos do estúdio, obtida cruzando a planilha de estúdios com a de jogos (`src/games.json`) pelo nome do estúdio e seus nomes alternativos. O número leva à lista de jogos filtrada por esse estúdio (`/#/jogos?estudio=...`).
 - **RF-09** Os jogos de game jam e os de autores sem estúdio não geram cartão de estúdio. Ficam apenas na categoria "Game Jam" da lista de jogos.

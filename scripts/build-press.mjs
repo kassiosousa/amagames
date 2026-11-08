@@ -7,7 +7,7 @@ import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
-const src = resolve(root, 'public/imprensa/levantamento-imprensa.xlsx')
+const src = resolve(root, 'dados/levantamento-imprensa.xlsx')
 const out = resolve(root, 'src/press.json')
 
 const fold = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim()

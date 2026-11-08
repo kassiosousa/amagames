@@ -36,7 +36,6 @@ export const board = [
 
 ## Riscos e dependências
 - **Foto e nome** relacionados pelo nome do arquivo, não por conferência visual da identidade.
-- **Autorização de imagem** de cada membro.
 - **Recorte quadrado** pode cortar parte do corpo nas fotos verticais, o que é aceito; o rosto fica visível.
 
 ## Verificação

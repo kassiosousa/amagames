@@ -8,7 +8,7 @@ Repetir o modelo das specs 002 a 004: planilha como fonte de verdade, script que
 Alternativas descartadas: uma coluna por ano (quebra quando um indicador existe só em alguns anos), embutir imagens dos infográficos na página (pesadas e sem texto acessível) e usar biblioteca de gráficos (as barras em CSS bastam).
 
 ## Planilha (criada)
-Arquivo: `public/mapeamento/levantamento-mapeamento-ecossistema.xlsx`, com três abas. O script lê as colunas pelo nome do cabeçalho.
+Arquivo: `dados/levantamento-mapeamento-ecossistema.xlsx`, com três abas. O script lê as colunas pelo nome do cabeçalho.
 
 | Aba | Colunas | Uso |
 |---|---|---|

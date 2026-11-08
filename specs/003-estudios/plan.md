@@ -8,7 +8,7 @@ Repetir o modelo da spec 002: uma planilha como fonte de verdade, um script que 
 Alternativas descartadas: ler o `.xlsx` no navegador (baixa ~1 MB e exige biblioteca no cliente) e manter os estúdios em `src/data.js` (a associação quer editar em planilha).
 
 ## Planilha (criada e preenchida pela associação)
-Arquivo: `public/estudios/levantamento-estudios-maranhenses.xlsx`, uma aba `Estúdios` (uma linha por estúdio). Colunas (o script lê pelo nome do cabeçalho, então a ordem não importa):
+Arquivo: `dados/levantamento-estudios-maranhenses.xlsx`, uma aba `Estúdios` (uma linha por estúdio). Colunas (o script lê pelo nome do cabeçalho, então a ordem não importa):
 
 | Coluna | Uso |
 |---|---|

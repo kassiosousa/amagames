@@ -7,7 +7,7 @@ import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
-const src = resolve(root, 'public/acoes/levantamento-acoes-realizadas-com-edicoes.xlsx')
+const src = resolve(root, 'dados/levantamento-acoes-realizadas-com-edicoes.xlsx')
 const outActions = resolve(root, 'src/actions.json')
 const outEditions = resolve(root, 'src/editions.json')
 const GENERIC = './acoes/generico.svg' // RF-03: nunca a marca da AMAGAMES

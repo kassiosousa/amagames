@@ -5,7 +5,7 @@
 Formato: `- [x] T-01 descrição (RF-xx, CA-xx)`. Ordem = ordem de execução.
 
 - [x] T-01 Pesquisar matérias e notícias sobre a AMAGAMES e sobre jogos no Maranhão (RF-08)
-- [x] T-02 Criar `public/imprensa/levantamento-imprensa.xlsx` com as 22 matérias e a aba "Fora da lista" (RF-07)
+- [x] T-02 Criar `dados/levantamento-imprensa.xlsx` com as 22 matérias e a aba "Fora da lista" (RF-07)
 - [x] T-03 Script `scripts/build-press.mjs`: planilha → `src/press.json`; ordem por data decrescente; sem planilha, lista vazia sem quebrar o build (RF-02, RF-07, RNF-03)
 - [x] T-04 `package.json`: script `press` e inclusão em `predev` e `prebuild` (RF-07)
 - [x] T-05 `PressCard.jsx`: data por extenso, veículo, tema, título como link externo, resumo e etiqueta "Dado a confirmar" (RF-03, RF-06, RNF-02, RNF-04)

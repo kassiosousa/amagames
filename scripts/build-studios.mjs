@@ -7,7 +7,7 @@ import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
-const src = resolve(root, 'public/estudios/levantamento-estudios-maranhenses.xlsx')
+const src = resolve(root, 'dados/levantamento-estudios-maranhenses.xlsx')
 const gamesPath = resolve(root, 'src/games.json')
 const out = resolve(root, 'src/studios.json')
 

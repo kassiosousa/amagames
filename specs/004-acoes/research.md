@@ -1,7 +1,7 @@
 # Pesquisa 004
 
 ## O que foi feito ao criar a spec (2026-11-06)
-- **Planilha criada:** `public/acoes/levantamento-acoes-realizadas-com-edicoes.xlsx`, aba `Ações`, com **somente as 6 ações que já estavam na lista do site** (texto copiado de `src/data.js`, sem alterações): Global Game Jam São Luís, Mapeamento do Ecossistema, Relato Trimestral, Missões técnicas (Sebrae-MA), Mostra de jogos no Guarnicê e MAGE – Maranhão GameDev Event.
+- **Planilha criada:** `dados/levantamento-acoes-realizadas-com-edicoes.xlsx`, aba `Ações`, com **somente as 6 ações que já estavam na lista do site** (texto copiado de `src/data.js`, sem alterações): Global Game Jam São Luís, Mapeamento do Ecossistema, Relato Trimestral, Missões técnicas (Sebrae-MA), Mostra de jogos no Guarnicê e MAGE – Maranhão GameDev Event.
 - **Ícones gerados** (SVG feito à mão para este projeto, sem imagens de terceiros), um por ação, mais um genérico. Estilo: traço preto fino e arredondado, 64×64, um toque de cor da paleta institucional. Desenhos e arquivos estão no [plano](./plan.md).
 - **Link** preenchido só para o Mapeamento, que aponta para a página interna `/mapeamento`. Os demais ficaram em branco: nenhum link público foi confirmado.
 
@@ -58,6 +58,6 @@ Criada na planilha de ações, com **30 edições** de eventos e ações da AMAG
 - Dado que não for encontrado fica em branco: não inventar.
 
 ## Resultado esperado
-- Planilha `public/acoes/levantamento-acoes-realizadas-com-edicoes.xlsx` com as 6 ações.
+- Planilha `dados/levantamento-acoes-realizadas-com-edicoes.xlsx` com as 6 ações.
 - Um ícone específico por ação em `public/acoes/` (feito).
 - Lista de pendências: links, datas e revisão visual dos ícones.

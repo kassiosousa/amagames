@@ -3,7 +3,7 @@
 Roteiro de pesquisa para quando a planilha de estúdios existir. **Não executado.** Segue o mesmo método da [pesquisa 002](../002-jogos/research.md).
 
 ## Ponto de partida
-A planilha de jogos (`public/jogos/levantamento-jogos-maranhenses.xlsx`) já cita alguns estúdios (fora os jogos de game jam). 
+A planilha de jogos (`dados/levantamento-jogos-maranhenses.xlsx`) já cita alguns estúdios (fora os jogos de game jam). 
 Servem de lista de dados inicial para a associação confirmar e completar posteriormente:
 
 | Estúdio na planilha de jogos | Jogos | Observação |
@@ -18,7 +18,7 @@ Servem de lista de dados inicial para a associação confirmar e completar poste
 A pesquisa de ecossistema indica 12 estúdios e 23 desenvolvedores independentes no estado (Abragames, 2025). A lista acima não possui todos os dados, mas inclui estúdios com maior prestígio e ativos no momento, essa será a lista inicial podendo ser expandida posteriormente.
 
 ## Estúdios maranhenses (busca por dados e imagens)
-Abrir `public/estudios/levantamento-estudios-maranhenses.xlsx` e passar por cada estúdio listado.
+Abrir `dados/levantamento-estudios-maranhenses.xlsx` e passar por cada estúdio listado.
 1. Para cada estúdio, se a planilha tiver um link de logo, baixar a imagem para `public/estudios/` e ajustar a planilha para referenciar o arquivo local.
 2. Sem link de logo, buscar na página do estúdio informada na planilha (`og:image` do site, do itch.io ou da loja); se não achar, fazer uma busca na internet; se não achar, usar a marca da AMAGAMES (`public/brand/assinatura.png`) como referência.
 3. Preencher, quando faltar e houver fonte pública: site, Instagram, ano de fundação, cidade e descrição curta. Registrar a URL de origem na coluna "Origem da imagem" e, para texto, indicar a fonte.
@@ -102,10 +102,10 @@ Logos em `public/estudios/`: `wired-dreams-studio.png`, `ops-game-studio.png`, `
 - Autorização dos estúdios para publicar logos e dados: pendente.
 
 ## Resultado da 1ª rodada (2026-11-05, histórico)
-A planilha `public/estudios/levantamento-estudios-maranhenses.xlsx` não existia e foi criada com as colunas do `plan.md` e as 6 linhas da lista acima, mais a coluna "Fonte dos dados". Logos achadas: Wired (DeVuego), OPS (DeVuego), Astral (Linktree), Clops (site); Hardcoffee e Onin ficaram com a marca.
+A planilha `dados/levantamento-estudios-maranhenses.xlsx` não existia e foi criada com as colunas do `plan.md` e as 6 linhas da lista acima, mais a coluna "Fonte dos dados". Logos achadas: Wired (DeVuego), OPS (DeVuego), Astral (Linktree), Clops (site); Hardcoffee e Onin ficaram com a marca.
 
 ## Resultado esperado
-- A planilha `public/estudios/levantamento-estudios-maranhenses.xlsx` atualizada com os dados dos estúdios, incluindo logo quando possível.
+- A planilha `dados/levantamento-estudios-maranhenses.xlsx` atualizada com os dados dos estúdios, incluindo logo quando possível.
 - Arquivos de logo de cada estúdio em `public/estudios/`.
 - Lista de pendências: estúdios sem logo, sem site e sem fonte para a descrição.
 - Só mostrar e buscar os estudios listados acima

@@ -7,7 +7,7 @@ Formato: `- [x] T-01 descrição (RF-xx, CA-xx)`. Ordem = ordem de execução.
 **Feito ao criar a spec:** artigo SBGames 2024 salvo na pasta, planilha com os números transcritos (inclui 2021, adicionado pela associação) e compressão dos PDFs de 2025 e 2021 (T-01, T-02 e T-12).
 
 - [x] T-01 Reunir as fontes em `public/mapeamento/`: infográficos de 2019, 2021 (enviado pela associação), 2022 a 2025 e o artigo SBGames 2024 (RF-09)
-- [x] T-02 Criar `public/mapeamento/levantamento-mapeamento-ecossistema.xlsx` com faturamento (2019, 2021 a 2025), indicadores de 2019, 2021 e 2022 a 2025 e as fontes (RF-07)
+- [x] T-02 Criar `dados/levantamento-mapeamento-ecossistema.xlsx` com faturamento (2019, 2021 a 2025), indicadores de 2019, 2021 e 2022 a 2025 e as fontes (RF-07)
 - [ ] T-03 Revisar a transcrição dos infográficos com a associação (RF-07)
 - [x] T-04 Script `scripts/build-mapping.mjs`: planilha → `src/mapping.json`; variação do faturamento; tamanho dos PDFs; planilha ausente sem quebrar o build (RF-03, RF-05, RF-07, RNF-03)
 - [x] T-05 `package.json`: script `mapping` e inclusão em `predev` e `prebuild` (RF-07)
