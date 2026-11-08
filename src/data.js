@@ -70,4 +70,4 @@ export const board = [
 ]
 
 // Os dados do mapeamento (faturamento e indicadores por ano) não ficam aqui: vêm da planilha
-// public/mapeamento/levantamento-mapeamento-ecossistema.xlsx (gerada em src/mapping.json por `npm run mapping`).
+// dados/levantamento-mapeamento-ecossistema.xlsx (gerada em src/mapping.json por `npm run mapping`).

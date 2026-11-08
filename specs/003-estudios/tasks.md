@@ -2,7 +2,7 @@
 
 Formato: `- [x] T-01 descrição (RF-xx, CA-xx)`. Ordem = ordem de execução.
 
-- [x] T-01 Revisar a planilha `public/estudios/levantamento-estudios-maranhenses.xlsx` (RF-06)
+- [x] T-01 Revisar a planilha `dados/levantamento-estudios-maranhenses.xlsx` (RF-06)
 - [x] T-02 Script `scripts/build-studios.mjs`: planilha → `src/studios.json`; sinônimos de área; link (site, senão Instagram); ordenação por ano de fundação (RF-04, RF-05, RF-06, RF-07)
 - [x] T-03 No script, contar jogos por estúdio cruzando com `src/games.json` (nome + nomes alternativos; jogos de dois estúdios contam para ambos) (RF-08, CA-08)
 - [x] T-04 Tratar planilha ausente ou vazia sem quebrar `dev`/`build` (RF-06)

@@ -8,7 +8,7 @@ Repetir o modelo das specs 002 e 003: planilha como fonte de verdade, script que
 Alternativas descartadas: manter `projects` em `src/data.js` (a associação quer editar em planilha) e embutir os SVG no código com uma biblioteca de ícones (ícones sob medida, um por ação, ficam melhor como arquivos editáveis).
 
 ## Planilha (criada)
-Arquivo: `public/acoes/levantamento-acoes-realizadas-com-edicoes.xlsx` (nome oficial definido pela associação em 2026-11-06). Tem duas abas: **`Ações`** (uma linha por ação; é a única lida pelo script, que a localiza pelo nome) e **`Edições`** (30 edições de eventos e ações, ainda sem uso no site). O script lê as colunas pelo nome do cabeçalho.
+Arquivo: `dados/levantamento-acoes-realizadas-com-edicoes.xlsx` (nome oficial definido pela associação em 2026-11-06). Tem duas abas: **`Ações`** (uma linha por ação; é a única lida pelo script, que a localiza pelo nome) e **`Edições`** (30 edições de eventos e ações, ainda sem uso no site). O script lê as colunas pelo nome do cabeçalho.
 
 | Coluna | Uso |
 |---|---|

@@ -1,7 +1,7 @@
 # Pesquisa 002
 
 ## Jogos maranhenses (busca por imagens e dados)
-Abrir o arquivo `.public/jogos/levantamento-jogos-maranhenses.xlsx` e passar por cada jogo listado.
+Abrir o arquivo `dados/levantamento-jogos-maranhenses.xlsx` e passar por cada jogo listado.
 Para cada jogo, baixar a imagem referenciada para dentro da pasta '.public/jogos' e ajustar a planilha para referenciar esta imagem local
 Quando não houver referencia de link de imagem, buscar na internet na página onde informa, caso não encontre, faça uma busca na internet, caso não encontre, coloque como referencia a marca da amagames presente em '.public/brand/assinatura'
 
@@ -19,6 +19,6 @@ Quando não houver referencia de link de imagem, buscar na internet na página o
 - Backup da planilha original fora do projeto (pasta temporária da sessão).
 
 ## Resultado esperado
-- A planilha '.public/jogos/levantamento-jogos-maranhenses.xlsx' atualizada com dados dos jogos maranhenses, incluindo imagens quando possível
+- A planilha 'dados/levantamento-jogos-maranhenses.xlsx' atualizada com dados dos jogos maranhenses, incluindo imagens quando possível
 - arquivos de imagens referentes a cada jogo do mapeamento
 

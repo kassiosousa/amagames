@@ -8,7 +8,7 @@ Repetir o modelo das specs 002 a 005: planilha como fonte de verdade, script que
 Alternativas descartadas: buscar as matérias automaticamente (sem fonte estável nem permissão de republicação) e embutir o texto das matérias (direitos autorais).
 
 ## Planilha (criada)
-Arquivo: `public/imprensa/levantamento-imprensa.xlsx`. O script lê as colunas pelo nome do cabeçalho.
+Arquivo: `dados/levantamento-imprensa.xlsx`. O script lê as colunas pelo nome do cabeçalho.
 
 | Aba | Colunas | Uso |
 |---|---|---|

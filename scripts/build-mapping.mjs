@@ -7,8 +7,8 @@ import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
-const dir = resolve(root, 'public/mapeamento')
-const src = resolve(dir, 'levantamento-mapeamento-ecossistema.xlsx')
+const dir = resolve(root, 'public/mapeamento') // só os PDFs dos infográficos (públicos)
+const src = resolve(root, 'dados/levantamento-mapeamento-ecossistema.xlsx')
 const out = resolve(root, 'src/mapping.json')
 
 const text = (v) => {

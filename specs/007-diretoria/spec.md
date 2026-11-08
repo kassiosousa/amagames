@@ -54,9 +54,8 @@ Biografias, redes sociais ou contatos dos membros, cargos de mandato (datas de p
 
 ## Decisões da associação (2026-11-08)
 - O sobrenome de Heitor é **Dias** (confirmado), e o nome de Marcos tem acento: **Marcos Januário**.
+- A associação **revisou a relação foto, nome e função** de cada cartão e a aprovou.
+- **Todas as fotos da diretoria têm autorização** de uso e de publicação no site (confirmado pela associação em 2026-11-08).
 
 ## Pontos em aberto
-- [A CONFIRMAR] **Foto e nome:** a relação foto–pessoa foi feita pelo nome do arquivo (e não pelo reconhecimento do rosto); a associação deve conferir se cada foto está no cartão certo.
-- [A CONFIRMAR] **Autorização de imagem:** confirmar que cada membro autoriza a publicação da foto no site.
-- [A CONFIRMAR] Duas pessoas ocupam "Diretora de Comunicação" (Jasmyn e Raissa), e há "Diretor Jr de Comunicação" (Marcos); manter como na lista.
-- [A CONFIRMAR] Foto de **Osvaldo** (arquivo `osvaldo.jpg`) e de **Raissa** (`raissa.jpg`) estão só com o primeiro nome; confirmar com sobrenome.
+Nenhum no momento. A associação revisou e aprovou a relação foto–nome–função (tarefa T-08 da v1, 2026-11-08), incluindo as grafias dos nomes e a autorização de imagem.

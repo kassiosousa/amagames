@@ -12,11 +12,11 @@ Os jogos maranhenses foram mapeados em uma planilha e agora, os jogos possuem da
 
 ## Requisitos funcionais
 - **RF-01** Na tela inicial, listar 9 jogos de destaque, ou seja, apenas jogos publicados na Steam. Esses jogos ficam passando em formato de carrossel, mudando a cada 5s. Mostra os 3 primeiros, depois muda para outros 3 e assim por diante. 
-- **RF-02** Cada jogo apresentado na tela inicial terá a imagem acima, o titulo, tags, resumo e abaixo o nome do estudio. Os dados são encontrados em `.public/jogos/levantamento-jogos-maranhenses.xlsx`
+- **RF-02** Cada jogo apresentado na tela inicial terá a imagem acima, o titulo, tags, resumo e abaixo o nome do estudio. Os dados são encontrados em `dados/levantamento-jogos-maranhenses.xlsx`
 - **RF-03** Logo acima no canto direito há um botão/link para "Lista de jogos" que leva para a tela listando todos os jogos.
 - **RF-04** Na tela `/#/jogos` deve-se listar todos os jogos, mostrando uma paginação de 10 mais recentes por vez, contendo setas para avançar e numeros contendo link para as demais páginas. 
 - **RF-05** Acima dos jogos há filtros, contendo: Ano de Publicação, Estilo e Estúdio. No filtro de "Estudio", juntar todos os jogos feitos em game jam em uma categoria "Game Jam". No filtro de estilo, unificar traduções como “Puzzle” e “Quebra-cabeça” como a mesma coisa, dando prioridade para a palavra em inglês.
-- **RF-06** Todos os dados devem ser obtidos em `.public/jogos/levantamento-jogos-maranhenses.xlsx` como fonte de verdade
+- **RF-06** Todos os dados devem ser obtidos em `dados/levantamento-jogos-maranhenses.xlsx` como fonte de verdade
 - **RF-07** Ao clicar no titulo do jogo, deve levar para a página pública do mesmo (em todos os cards)
 
 ## Requisitos não funcionais
