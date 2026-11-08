@@ -9,15 +9,15 @@ A associação reúne estúdios e desenvolvedores para ter mais voz junto a enti
 - **Apresentar a AMAGAMES** (quem somos, missão, diretoria) a desenvolvedores, estudantes, poder público, Sebrae, empresas e imprensa;
 - **Dar visibilidade aos estúdios e jogos maranhenses**, com busca por ano, estilo e estúdio;
 - **Mostrar projetos e ações realizadas** e os parceiros;
-- **Publicar os dados do ecossistema** (mapeamento de 2023: faturamento, produção, perfil).
+- **Publicar os dados do ecossistema** (mapeamento anual: faturamento, produção, editais, eventos, perfil e diversidade; edição mais recente em destaque e os anos anteriores numa aba lateral).
 
 A estrutura das seções segue o padrão de outras associações regionais de jogos (Abragames, ADJogosRS, Ascende, ACJogos-AL, BIND): identidade e objetivos, depois associados, ações e parceiros; diretoria e dados em páginas próprias. A pesquisa está em [`specs/001-site-institucional/research.md`](specs/001-site-institucional/research.md).
 
 ## O que tem no site
 
-**Página inicial:** cabeçalho, carrossel de destaques, Quem somos, Estúdios associados, Jogos da comunidade (carrossel dos 9 jogos mais recentes publicados na Steam), Projetos e ações, Parceiros e rodapé.
+**Página inicial:** cabeçalho, carrossel de destaques, Quem somos, Estúdios associados (carrossel dos 6 estúdios em destaque), Jogos da comunidade (carrossel dos 9 jogos mais recentes publicados na Steam), Projetos e ações (cards com ícone próprio), Parceiros e rodapé.
 
-**Páginas:** Diretoria, Lista de estúdios, Lista de jogos (todos os jogos, 10 por página, com filtros), Projetos e Mapeamento.
+**Páginas:** Diretoria (cartões com foto, nome e função, em Diretoria e Diretoria Jr), Lista de estúdios (10 por página, com filtros de cidade, área de atuação e situação), Lista de jogos (todos os jogos, 10 por página, com filtros), Projetos (lista paginada de ações e eventos, com filtros por tipo de ação e ano) e Mapeamento (detalhes por ano, gráfico de faturamento e link para o infográfico em PDF) e Imprensa (matérias e notícias sobre a AMAGAMES e os jogos do Maranhão, com filtros por tema e ano).
 
 ## Tecnologia
 
@@ -54,20 +54,26 @@ Gera o site pronto para publicar em `dist/`. Para testar esse resultado localmen
 
 ## Como atualizar o conteúdo
 
-- **Textos, estúdios, projetos, parceiros, diretoria, destaques do carrossel e números:** edite [`src/data.js`](src/data.js). Dado desconhecido deve ficar marcado como "A confirmar", nunca inventado.
+- **Textos, parceiros, diretoria, destaques do carrossel e números:** edite [`src/data.js`](src/data.js). Dado desconhecido deve ficar marcado como "A confirmar", nunca inventado.
 - **Jogos:** a fonte de verdade é a planilha [`public/jogos/levantamento-jogos-maranhenses.xlsx`](public/jogos/levantamento-jogos-maranhenses.xlsx) (uma aba por ano). Depois de editá-la, rode `npm run games`, ou reinicie o `npm run dev`; o `build` já faz isso sozinho. Isso gera `src/games.json`, que **não deve ser editado à mão**. As capas dos jogos ficam em `public/jogos/`.
-- **Imagens:** logos da marca em `public/brand/`, fotos do carrossel em `public/slides/`, logos de parceiros em `public/partners/`. Use nomes de arquivo em minúsculas.
+- **Estúdios:** a fonte de verdade é a planilha [`public/estudios/levantamento-estudios-maranhenses.xlsx`](public/estudios/levantamento-estudios-maranhenses.xlsx) (uma linha por estúdio; o script lê as colunas pelo nome do cabeçalho). Depois de editá-la, rode `npm run studios` (ou reinicie o `dev`). Isso gera `src/studios.json`, que **não deve ser editado à mão**, e cruza os estúdios com os jogos para contar quantos jogos cada um tem. O destaque da home é calculado: mais jogos publicados na Steam, depois mais jogos no total, depois o estúdio mais antigo. As logos ficam em `public/estudios/`.
+- **Projetos e ações:** a fonte de verdade é a planilha [`public/acoes/levantamento-acoes-realizadas-com-edicoes.xlsx`](public/acoes/levantamento-acoes-realizadas-com-edicoes.xlsx) (colunas Ordem, Nome, Tipo, Descrição, Link, Ícone). Depois de editá-la, rode `npm run actions` (ou reinicie o `dev`). Isso gera `src/actions.json` (cards da home) e `src/editions.json`, que **não devem ser editados à mão**. A aba **Edições** da mesma planilha (uma linha por edição de evento ou ação: ação vinculada, edição, ano, data, local, descrição, parceiros, fonte e situação do dado) alimenta a lista paginada da página Projetos; por enquanto só o ano de realização é exibido (data e local ficam escondidos até a associação completar os dados) e itens "Parcial" ou "A confirmar" levam a etiqueta "Dado a confirmar". Cada ação usa o ícone SVG indicado na coluna "Ícone" (arquivos em `public/acoes/`); sem ícone, aparece o genérico. O link pode ser interno (`/mapeamento`) ou externo (`https://...`).
+- **Mapeamento:** a fonte de verdade é a planilha [`public/mapeamento/levantamento-mapeamento-ecossistema.xlsx`](public/mapeamento/levantamento-mapeamento-ecossistema.xlsx), com as abas Faturamento, Indicadores (uma linha por indicador e ano) e Fontes (PDF do infográfico, créditos e artigo). Para um novo mapeamento, acrescente o PDF em `public/mapeamento/` e as linhas na planilha, e rode `npm run mapping` (ou reinicie o `dev`); o ano mais recente passa a abrir a página sozinho. Isso gera `src/mapping.json`, que **não deve ser editado à mão**.
+- **Imagens:** logos da marca em `public/brand/`, fotos do carrossel em `public/slides/`, logos de parceiros em `public/partners/`, fotos da diretoria em `public/diretoria/`. Use nomes de arquivo em minúsculas.
+- **Imprensa:** a fonte de verdade é a planilha [`public/imprensa/levantamento-imprensa.xlsx`](public/imprensa/levantamento-imprensa.xlsx), aba "Matérias" (Data, Título, Veículo, Tema, Resumo, Link, Menciona a AMAGAMES, Situação do dado e Observação interna). Para incluir uma matéria, acrescente uma linha com o link da fonte e um resumo próprio (não copie o texto da matéria) e rode `npm run press` (ou reinicie o `dev`). Isso gera `src/press.json`, que **não deve ser editado à mão**. As colunas "Menciona a AMAGAMES" e "Observação interna" são de uso interno e não aparecem no site.
 
 ## Estrutura
 
 ```
 public/            imagens, logos e a planilha de jogos (servidos como estão)
-scripts/           build-games.mjs: planilha -> src/games.json
+scripts/           build-games.mjs, build-studios.mjs e build-actions.mjs: planilhas -> src/games.json, src/studios.json e src/actions.json
 src/
   data.js          conteúdo do site
-  games.json       gerado a partir da planilha
-  components/      Header, Footer, Carousel, GamesCarousel, GameCard, ui
-  pages/           Home, Jogos e as demais páginas
+  games.json       gerado a partir da planilha de jogos
+  studios.json     gerado a partir da planilha de estúdios
+  actions.json     gerado a partir da planilha de ações
+  components/      Header, Footer, Carousel, GroupCarousel, GamesCarousel, StudiosCarousel, GameCard, StudioCard, ActionCard, Pagination, FilterSelect, ui
+  pages/           Home, Jogos, Estudios, Projetos e as demais páginas
 specs/             especificações do projeto (veja abaixo)
 ```
 
@@ -77,14 +83,14 @@ O projeto usa spec-driven development: cada mudança de comportamento começa po
 
 - `specs/constitution.md`: princípios do projeto (verdade antes de volume, conteúdo separado da interface, simplicidade, acessibilidade, identidade visual).
 - `specs/NNN-nome/`: uma pasta por feature, com `spec.md` (o quê e por quê), `plan.md` (como), `tasks.md` (tarefas) e, quando preciso, `research.md`.
-- Features atuais: `001-site-institucional` e `002-jogos`.
+- Features atuais: `001-site-institucional`, `002-jogos`, `003-estudios`, `004-acoes`, `005-mapeamento`, `006-imprensa` e `007-diretoria`.
 
 O fluxo é: escrever ou ajustar a spec, depois o plano e as tarefas, depois o código. Se o código divergir da spec, a spec é atualizada primeiro. O `CLAUDE.md` resume essas regras para o Claude Code.
 
 ## Pendências de conteúdo
 
-Estes itens dependem de informação da associação (ver `specs/001-site-institucional/tasks.md`): nomes da diretoria, lista oficial de estúdios associados, vínculo de cada jogo a seu estúdio, confirmação do Instagram e do e-mail de contato, e definição de hospedagem e domínio.
+Estes itens dependem de informação da associação (ver `specs/001-site-institucional/tasks.md`): nomes da diretoria, conferência da lista de estúdios associados, confirmação do e-mail de contato, e definição de hospedagem e domínio.
 
 ## Fontes dos dados
 
-Mapeamento do Ecossistema Maranhense de Desenvolvimento de Jogos 2023 (SBGames 2024), Abragames, O Imparcial, Movimento Econômico e a planilha de levantamento de jogos da própria associação. As capas dos jogos vêm das páginas públicas de cada jogo; confirme a autorização de uso antes de publicar.
+Mapeamento do Ecossistema Maranhense de Desenvolvimento de Jogos 2023 (SBGames 2024), Abragames, O Imparcial, Movimento Econômico e as planilhas de levantamento de jogos, estúdios, ações, mapeamento e imprensa da própria associação. As matérias da página Imprensa são links para os veículos, com resumo próprio; as capas dos jogos vêm das páginas públicas de cada jogo; confirme a autorização de uso antes de publicar.

@@ -35,24 +35,8 @@ export const about = {
   ],
 }
 
-export const studios = [
-  { name: 'OPS Studio', city: 'São Luís', since: 2018, focus: 'Jogos autorais, advergames e serious games', note: 'Fundado por Kassio Sousa e Nuninho Neto. Clientes: Sebrae, Vale e SECTI-MA.', games: ['Lunar Axe'] },
-  { name: 'Estúdio a confirmar', city: 'São Luís', focus: 'Jogos autorais', confirmar: true },
-  { name: 'Estúdio a confirmar', city: 'São Luís', focus: 'Prestação de serviços', confirmar: true },
-  { name: 'Estúdio a confirmar', city: 'São José de Ribamar', focus: 'Jogos mobile', confirmar: true },
-]
-
-// Os jogos não ficam aqui: vêm da planilha public/jogos/levantamento-jogos-maranhenses.xlsx
-// (gerada em src/games.json por `npm run games`).
-
-export const projects = [
-  { name: 'Global Game Jam São Luís', kind: 'Evento anual', desc: 'Maratona de 48h sediada pela AMAGAMES há mais de uma década. Edição 2026 no Complexo Trapiche (Parque Tecnológico da Prefeitura).' },
-  { name: 'Mapeamento do Ecossistema', kind: 'Pesquisa', desc: 'Levantamento anual de estúdios, faturamento e produção, publicado nos anais da SBGames 2024.' },
-  { name: 'Relato Trimestral', kind: 'Transparência', desc: 'Registro periódico das atividades e conquistas da cena maranhense.' },
-  { name: 'Missões técnicas (Sebrae-MA)', kind: 'Mercado', desc: 'Apoio para levar jogos indicados e premiados a festivais como o BIG Festival.' },
-  { name: 'Mostra de jogos no Guarnicê', kind: 'Cultura', desc: 'Mostra competitiva de jogos maranhenses no Festival Guarnicê de Cinema.' },
-  { name: 'MAGE – Maranhão GameDev Event', kind: 'Evento', desc: 'Encontro da comunidade de desenvolvimento de jogos do estado.' },
-]
+// Jogos e estúdios não ficam aqui: vêm das planilhas em public/jogos e public/estudios
+// (geradas em src/games.json e src/studios.json por `npm run games` e `npm run studios`).
 
 export const partners = [
   { name: 'Abragames', image: './partners/abragames.jpg' },
@@ -61,26 +45,29 @@ export const partners = [
   { name: 'Global Game Jam', image: './partners/ggj.png' },
 ]
 
+// Diretoria: a ordem abaixo é a ordem exibida na página (lista oficial da associação).
+// Foto de cada membro em public/diretoria/ (relação em specs/007-diretoria/research.md).
 export const board = [
-  { role: 'Presidência', name: 'A confirmar' },
-  { role: 'Vice-presidência', name: 'A confirmar' },
-  { role: 'Diretoria Executiva / Financeira', name: 'A confirmar' },
-  { role: 'Diretoria de Comunicação', name: 'A confirmar' },
-  { role: 'Diretoria de Eventos', name: 'A confirmar' },
+  {
+    group: 'Diretoria',
+    members: [
+      { name: 'Kassio Sousa', role: 'Diretor Executivo', photo: './diretoria/kassio-sousa.jpg' },
+      { name: 'Heitor Dias', role: 'Diretor de Relações Públicas', photo: './diretoria/heitor-dias.jpg' },
+      { name: 'Jasmyn Lemos', role: 'Diretora de Comunicação', photo: './diretoria/jasmyn-lemos.jpg' },
+      { name: 'Raissa Kaline', role: 'Diretora de Comunicação', photo: './diretoria/raissa.jpg' },
+      { name: 'Leonardo Lindoso', role: 'Diretor de Processos', photo: './diretoria/leonardo-lindoso.jpg' },
+      { name: 'Rafael Solano', role: 'Diretor de Comunidade', photo: './diretoria/rafael-solano.jpg' },
+    ],
+  },
+  {
+    group: 'Diretoria Jr',
+    members: [
+      { name: 'Osvaldo Neto', role: 'Diretor Jr de Comunidade', photo: './diretoria/osvaldo.jpg' },
+      { name: 'Marcos Januário', role: 'Diretor Jr de Comunicação', photo: './diretoria/marcos-januario.jpg' },
+      { name: 'Yanne Moraes', role: 'Diretor Jr de Comunidade', photo: './diretoria/yanne.jpg' },
+    ],
+  },
 ]
 
-export const faturamento = [
-  { year: '2019', value: 110000 },
-  { year: '2021', value: 568000 },
-  { year: '2022', value: 352600 },
-  { year: '2023', value: 435750 },
-]
-
-export const mapeamento = [
-  ['35', 'respostas (abr/2023–abr/2024)'],
-  ['118', 'atores no máximo (sócios, colaboradores, freelancers)'],
-  ['65,7%', 'devs individuais'],
-  ['28', 'respondentes em São Luís'],
-  ['20', 'jogos em produção em 2023'],
-  ['70%', 'produzem jogos autorais em 2024'],
-]
+// Os dados do mapeamento (faturamento e indicadores por ano) não ficam aqui: vêm da planilha
+// public/mapeamento/levantamento-mapeamento-ecossistema.xlsx (gerada em src/mapping.json por `npm run mapping`).

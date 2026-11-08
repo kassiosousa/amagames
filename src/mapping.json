@@ -1,0 +1,1518 @@
+{
+ "years": [
+  2025,
+  2024,
+  2023,
+  2022,
+  2021,
+  2019
+ ],
+ "latest": 2025,
+ "revenue": [
+  {
+   "year": 2019,
+   "value": 110000,
+   "label": "Mais de 110 mil",
+   "source": "Infográfico do mapeamento 2019 (public/mapeamento/infografico-mapeamento-amaagames-2019.pdf); confirmado no artigo SBGames 2024, p. 8",
+   "note": "O infográfico diz \"mais de 110 mil\"; o artigo usa R$ 110.000",
+   "growth": null,
+   "growthFrom": null
+  },
+  {
+   "year": 2021,
+   "value": 568000,
+   "label": "568 mil",
+   "source": "Infográfico do mapeamento 2021 (public/mapeamento/infografico-mapeamento-amaagames-2021.pdf); confirmado no artigo SBGames 2024, p. 8",
+   "note": "O artigo traz o mesmo valor: R$ 568.000 (de R$ 110.000 em 2019, acréscimo de mais de 500%)",
+   "growth": 416,
+   "growthFrom": 2019
+  },
+  {
+   "year": 2022,
+   "value": 352000,
+   "label": "352 mil",
+   "source": "Infográfico do mapeamento 2022 (public/mapeamento/infografico-mapeamento-amaagames-2022.pdf)",
+   "note": "Coerente com o artigo: queda de cerca de 38% sobre 2021",
+   "growth": -38,
+   "growthFrom": 2021
+  },
+  {
+   "year": 2023,
+   "value": 435750,
+   "label": "435 mil",
+   "source": "Infográfico do mapeamento 2023 (public/mapeamento/infografico-mapeamento-amaagames-2023.pdf); valor exato no artigo SBGames 2024, p. 7 (R$ 435.749,97)",
+   "note": "Soma de 23 participantes; +23,58% sobre 2022 segundo o artigo",
+   "growth": 24,
+   "growthFrom": 2022
+  },
+  {
+   "year": 2024,
+   "value": 1000000,
+   "label": "1 milhão",
+   "source": "Infográfico do mapeamento 2024 (public/mapeamento/infografico-mapeamento-amaagames-2024.pdf)",
+   "note": "Valor arredondado no infográfico",
+   "growth": 129,
+   "growthFrom": 2023
+  },
+  {
+   "year": 2025,
+   "value": 1350000,
+   "label": "1,35 milhão",
+   "source": "Infográfico do mapeamento 2025 (public/mapeamento/infografico-mapeamento-amaagames-2025.pdf)",
+   "note": "Valor arredondado no infográfico",
+   "growth": 35,
+   "growthFrom": 2024
+  }
+ ],
+ "byYear": {
+  "2019": {
+   "sections": [
+    {
+     "key": "Produção",
+     "title": "Faturamento e produção",
+     "bar": false,
+     "items": [
+      {
+       "label": "Faturamento",
+       "value": "R$ 110 mil",
+       "unit": "",
+       "note": "",
+       "highlight": true
+      },
+      {
+       "label": "Jogos em 2019",
+       "value": 36,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma alvo: computador",
+       "value": 67,
+       "unit": "respostas",
+       "note": "Contagem de respostas (um desenvolvedor pode marcar mais de uma plataforma)"
+      },
+      {
+       "label": "Plataforma alvo: smartphones",
+       "value": 79,
+       "unit": "respostas",
+       "note": ""
+      },
+      {
+       "label": "Plataforma alvo: web",
+       "value": 29,
+       "unit": "respostas",
+       "note": ""
+      },
+      {
+       "label": "Plataforma alvo: consoles",
+       "value": 11,
+       "unit": "respostas",
+       "note": ""
+      },
+      {
+       "label": "Plataforma alvo: outros",
+       "value": 22,
+       "unit": "respostas",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Perfil da comunidade",
+     "title": "Perfil da comunidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Grupos catalogados",
+       "value": 19,
+       "unit": "grupos",
+       "note": ""
+      },
+      {
+       "label": "Perfil: entusiastas",
+       "value": 49,
+       "unit": "pessoas",
+       "note": ""
+      },
+      {
+       "label": "Perfil: não profissionais",
+       "value": 45,
+       "unit": "pessoas",
+       "note": ""
+      },
+      {
+       "label": "Perfil: profissionais",
+       "value": 35,
+       "unit": "pessoas",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "AMAGAMES",
+     "title": "AMAGAMES",
+     "bar": false,
+     "items": [
+      {
+       "label": "Eventos organizados",
+       "value": 62,
+       "unit": "eventos",
+       "note": "Global Game Jam, Bro Game Jam, Game Jam+, MAGE, Women Game Jam, MAGE Jam, workshops, oficinas e palestras"
+      }
+     ]
+    }
+   ],
+   "pdf": null,
+   "credits": "",
+   "article": null
+  },
+  "2021": {
+   "sections": [
+    {
+     "key": "Produção",
+     "title": "Faturamento e produção",
+     "bar": false,
+     "items": [
+      {
+       "label": "Faturamento",
+       "value": "R$ 568 mil",
+       "unit": "",
+       "note": "",
+       "highlight": true
+      },
+      {
+       "label": "Jogos",
+       "value": 25,
+       "unit": "jogos",
+       "note": "O infográfico destaca \"25 jogos\": 18 de prestação de serviço e 25 autorais; os números não se somam e foram transcritos como aparecem"
+      },
+      {
+       "label": "Jogos de prestação de serviço",
+       "value": 18,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Jogos autorais",
+       "value": 25,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: PC",
+       "value": 12,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Mobile",
+       "value": 10,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: VR",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Console (jogo autoral)",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Jogos autorais lançados",
+       "value": 13,
+       "unit": "jogos",
+       "note": "O infográfico avisa que um jogo pode estar em mais de uma plataforma ao mesmo tempo"
+      },
+      {
+       "label": "Lançados: PC",
+       "value": 12,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançados: Mobile",
+       "value": 6,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançados: VR",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançados: Console",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Parcerias com publisher",
+       "value": 3,
+       "unit": "parcerias",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Editais",
+     "title": "Editais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Submissões",
+       "value": 14,
+       "unit": "editais",
+       "note": ""
+      },
+      {
+       "label": "Contemplações",
+       "value": 8,
+       "unit": "editais",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Festivais",
+     "title": "Festivais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Participações em festivais",
+       "value": 21,
+       "unit": "festivais",
+       "note": ""
+      },
+      {
+       "label": "Festivais brasileiros",
+       "value": 14,
+       "unit": "festivais",
+       "note": ""
+      },
+      {
+       "label": "Festivais internacionais",
+       "value": 7,
+       "unit": "festivais",
+       "note": ""
+      },
+      {
+       "label": "Indicações",
+       "value": 23,
+       "unit": "indicações",
+       "note": ""
+      },
+      {
+       "label": "Premiações",
+       "value": 11,
+       "unit": "premiações",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Perfil da comunidade",
+     "title": "Perfil da comunidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Estúdios",
+       "value": 15,
+       "unit": "estúdios",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Contratos",
+     "title": "Contratos",
+     "bar": false,
+     "items": [
+      {
+       "label": "Contratações geradas",
+       "value": 64,
+       "unit": "contratações",
+       "note": ""
+      },
+      {
+       "label": "Número de profissionais",
+       "value": 28,
+       "unit": "profissionais",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Diversidade",
+     "title": "Diversidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Entre sócios: representação de minorias",
+       "value": 53,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "pdf": null,
+   "credits": "Arte: wauis.carrd.co",
+   "article": null
+  },
+  "2022": {
+   "sections": [
+    {
+     "key": "Produção",
+     "title": "Faturamento e produção",
+     "bar": false,
+     "items": [
+      {
+       "label": "Faturamento",
+       "value": "R$ 352 mil",
+       "unit": "",
+       "note": "",
+       "highlight": true
+      },
+      {
+       "label": "Jogos autorais",
+       "value": 27,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: PC/Web",
+       "value": 27,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Mobile",
+       "value": 5,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Console",
+       "value": 2,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos na Steam",
+       "value": 5,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos Mobile",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos Console",
+       "value": 2,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Parcerias com publishers fechadas",
+       "value": 3,
+       "unit": "parcerias",
+       "note": "Bandeiras no infográfico: EUA, Brasil, Japão e França"
+      },
+      {
+       "label": "Parcerias com publishers em negociação",
+       "value": 1,
+       "unit": "parcerias",
+       "note": ""
+      },
+      {
+       "label": "Desenvolvedores com projetos em andamento para 2023",
+       "value": 75,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Editais",
+     "title": "Editais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Submissões",
+       "value": 12,
+       "unit": "editais",
+       "note": ""
+      },
+      {
+       "label": "Contemplações",
+       "value": 8,
+       "unit": "editais",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Serviços",
+     "title": "Serviços",
+     "bar": false,
+     "items": [
+      {
+       "label": "Serviços prestados",
+       "value": 31,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em MA",
+       "value": 22,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em SP",
+       "value": 6,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em CE",
+       "value": 2,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em DF",
+       "value": 1,
+       "unit": "serviços",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Participação em eventos",
+     "title": "Participação em eventos",
+     "bar": true,
+     "items": [
+      {
+       "label": "MAGE",
+       "value": 50,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Festival Guarnicê",
+       "value": 25,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "BIG Festival",
+       "value": 20,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Global Game Jam",
+       "value": 20,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Game Jam+",
+       "value": 20,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Festivais",
+     "title": "Festivais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Indicações",
+       "value": 12,
+       "unit": "indicações",
+       "note": ""
+      },
+      {
+       "label": "Premiações",
+       "value": 5,
+       "unit": "premiações",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Perfil da comunidade",
+     "title": "Perfil da comunidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Desenvolvedores individuais",
+       "value": 14,
+       "unit": "pessoas",
+       "note": ""
+      },
+      {
+       "label": "Estúdios",
+       "value": 9,
+       "unit": "estúdios",
+       "note": ""
+      },
+      {
+       "label": "Coletivo informal",
+       "value": 1,
+       "unit": "coletivo",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Contratos",
+     "title": "Contratos",
+     "bar": false,
+     "items": [
+      {
+       "label": "Contratos realizados",
+       "value": 57,
+       "unit": "contratos",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Diversidade",
+     "title": "Diversidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Entre sócios: pessoas negras",
+       "value": 30,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre sócios: minorias",
+       "value": 50,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre sócios: LGBTQIA+",
+       "value": 20,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre sócios: mulheres",
+       "value": 15,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: mulheres",
+       "value": 25,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: pessoas negras",
+       "value": 20,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: LGBTQIA+",
+       "value": 13,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Comunicação inclusiva",
+       "value": 55,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Ações internas das empresas",
+       "value": 22,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade em jogos",
+       "value": 55,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: gênero",
+       "value": 44,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: sexualidade",
+       "value": 33,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "pdf": null,
+   "credits": "Design: Heitor Dias. Ilustrações: Rafael Solano",
+   "article": null
+  },
+  "2023": {
+   "sections": [
+    {
+     "key": "Produção",
+     "title": "Faturamento e produção",
+     "bar": false,
+     "items": [
+      {
+       "label": "Faturamento",
+       "value": "R$ 435 mil",
+       "unit": "",
+       "note": "",
+       "highlight": true
+      },
+      {
+       "label": "Jogos autorais",
+       "value": 20,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: PC/Web",
+       "value": 16,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Mobile",
+       "value": 6,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: VR",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos na Steam",
+       "value": 4,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos Mobile",
+       "value": 3,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos VR",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Parcerias com publisher",
+       "value": 1,
+       "unit": "parcerias",
+       "note": ""
+      },
+      {
+       "label": "Desenvolvedores com projetos em andamento para 2024",
+       "value": 70,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Editais",
+     "title": "Editais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Submissões",
+       "value": 30,
+       "unit": "editais",
+       "note": ""
+      },
+      {
+       "label": "Contemplações",
+       "value": 22,
+       "unit": "editais",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Serviços",
+     "title": "Serviços",
+     "bar": false,
+     "items": [
+      {
+       "label": "Serviços prestados",
+       "value": 15,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em MA",
+       "value": 9,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em SP",
+       "value": 3,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em DF",
+       "value": 1,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em PR",
+       "value": 1,
+       "unit": "serviços",
+       "note": ""
+      },
+      {
+       "label": "Serviços prestados em UK",
+       "value": 1,
+       "unit": "serviços",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Participação em eventos",
+     "title": "Participação em eventos",
+     "bar": true,
+     "items": [
+      {
+       "label": "MAGE - Maranhão Gamedev Event",
+       "value": 48,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Global Game Jam",
+       "value": 30,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Festival Guarnicê",
+       "value": 18,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "BIG Festival",
+       "value": 13,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Made in Brazil Sale",
+       "value": 13,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Festivais",
+     "title": "Festivais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Indicações",
+       "value": 17,
+       "unit": "indicações",
+       "note": ""
+      },
+      {
+       "label": "Premiações",
+       "value": 5,
+       "unit": "premiações",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Perfil da comunidade",
+     "title": "Perfil da comunidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Desenvolvedores individuais",
+       "value": 23,
+       "unit": "pessoas",
+       "note": ""
+      },
+      {
+       "label": "Estúdios",
+       "value": 12,
+       "unit": "estúdios",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Contratos",
+     "title": "Contratos",
+     "bar": false,
+     "items": [
+      {
+       "label": "Contratos realizados",
+       "value": 23,
+       "unit": "contratos",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Diversidade",
+     "title": "Diversidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Entre sócios: minorias",
+       "value": 64,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre sócios: pessoas negras",
+       "value": 42,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre sócios: mulheres",
+       "value": 25,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre sócios: LGBTQIA+",
+       "value": 22,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: mulheres",
+       "value": 27,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: LGBTQIA+",
+       "value": 10,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: pessoas negras",
+       "value": 8,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: PNE",
+       "value": 5,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: indígenas",
+       "value": 3,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Comunicação inclusiva",
+       "value": 41,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Ações internas das empresas",
+       "value": 25,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade nos jogos",
+       "value": 83,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: diversas etnias",
+       "value": 58,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: diversos gêneros",
+       "value": 50,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "pdf": null,
+   "credits": "Design: Heitor Dias",
+   "article": {
+    "url": "https://sol.sbc.org.br/index.php/sbgames/article/view/32421",
+    "size": "",
+    "external": true
+   }
+  },
+  "2024": {
+   "sections": [
+    {
+     "key": "Produção",
+     "title": "Faturamento e produção",
+     "bar": false,
+     "items": [
+      {
+       "label": "Faturamento",
+       "value": "R$ 1 milhão",
+       "unit": "",
+       "note": "",
+       "highlight": true
+      },
+      {
+       "label": "Jogos autorais",
+       "value": 24,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: PC/Web",
+       "value": 20,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Mobile",
+       "value": 6,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: VR",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Consoles",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos na Steam",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos Mobile",
+       "value": 7,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Parcerias com publisher",
+       "value": 3,
+       "unit": "parcerias",
+       "note": ""
+      },
+      {
+       "label": "Desenvolvedores com projetos em andamento para 2025",
+       "value": 54,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Editais",
+     "title": "Editais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Submissões",
+       "value": 17,
+       "unit": "editais",
+       "note": ""
+      },
+      {
+       "label": "Contemplações",
+       "value": 7,
+       "unit": "editais",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Serviços",
+     "title": "Serviços",
+     "bar": false,
+     "items": [
+      {
+       "label": "Locais de serviços prestados",
+       "value": "MA, SP, DF, PR, RJ, PB, UK, ARG",
+       "unit": "",
+       "note": "Sem contagem por local no infográfico"
+      }
+     ]
+    },
+    {
+     "key": "Participação em eventos",
+     "title": "Participação em eventos",
+     "bar": true,
+     "items": [
+      {
+       "label": "Outros",
+       "value": 22,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "MAGE - Maranhão Gamedev Event",
+       "value": 20,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Gamescom Latam",
+       "value": 15,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Festival Guarnicê",
+       "value": 12,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Global Game Jam",
+       "value": 10,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "MGD - Maranhão Games Direct",
+       "value": 8,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "SBGames",
+       "value": 7,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Made in Brazil Sale",
+       "value": 5,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Festivais",
+     "title": "Festivais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Indicações",
+       "value": 23,
+       "unit": "indicações",
+       "note": ""
+      },
+      {
+       "label": "Premiações",
+       "value": 10,
+       "unit": "premiações",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Perfil da comunidade",
+     "title": "Perfil da comunidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Desenvolvedores individuais",
+       "value": 12,
+       "unit": "pessoas",
+       "note": ""
+      },
+      {
+       "label": "Estúdios",
+       "value": 14,
+       "unit": "estúdios",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Contratos",
+     "title": "Contratos",
+     "bar": false,
+     "items": [
+      {
+       "label": "Contratos realizados",
+       "value": 55,
+       "unit": "contratos",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Diversidade",
+     "title": "Diversidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Entre sócios: minorias / pessoas negras / mulheres / LGBTQIA+",
+       "value": 60,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: minorias / pessoas negras / mulheres / LGBTQIA+",
+       "value": 57,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Comunicação inclusiva",
+       "value": 15,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Ações internas das empresas",
+       "value": 8,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade nos jogos",
+       "value": 50,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: diversas etnias",
+       "value": 30,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: diversos gêneros",
+       "value": 23,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "pdf": null,
+   "credits": "Design: Heitor Dias",
+   "article": null
+  },
+  "2025": {
+   "sections": [
+    {
+     "key": "Produção",
+     "title": "Faturamento e produção",
+     "bar": false,
+     "items": [
+      {
+       "label": "Faturamento",
+       "value": "R$ 1,35 milhão",
+       "unit": "",
+       "note": "",
+       "highlight": true
+      },
+      {
+       "label": "Jogos autorais",
+       "value": 26,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: PC/Web",
+       "value": 20,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Mobile",
+       "value": 3,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Plataforma: Consoles",
+       "value": 1,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Lançamentos na Steam",
+       "value": 4,
+       "unit": "jogos",
+       "note": ""
+      },
+      {
+       "label": "Parcerias com publisher",
+       "value": 2,
+       "unit": "parcerias",
+       "note": ""
+      },
+      {
+       "label": "Desenvolvedores com projetos em andamento para 2026",
+       "value": 62,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Editais",
+     "title": "Editais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Submissões",
+       "value": 19,
+       "unit": "editais",
+       "note": ""
+      },
+      {
+       "label": "Contemplações",
+       "value": 3,
+       "unit": "editais",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Serviços",
+     "title": "Serviços",
+     "bar": false,
+     "items": [
+      {
+       "label": "Locais de serviços prestados",
+       "value": "MA, SP, SC, RJ, PB, EUA, UK, RUS",
+       "unit": "",
+       "note": "Sem contagem por local no infográfico"
+      }
+     ]
+    },
+    {
+     "key": "Participação em eventos",
+     "title": "Participação em eventos",
+     "bar": true,
+     "items": [
+      {
+       "label": "Outros",
+       "value": 22,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "MAGE - Maranhão Gamedev Event",
+       "value": 21,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Festival Guarnicê",
+       "value": 14,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Made in Brazil Sale",
+       "value": 12,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Gamescom Latam",
+       "value": 12,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Global Game Jam",
+       "value": 7,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "SBGames",
+       "value": 7,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Expoindústria",
+       "value": 5,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Festivais",
+     "title": "Festivais",
+     "bar": false,
+     "items": [
+      {
+       "label": "Indicações",
+       "value": 12,
+       "unit": "indicações",
+       "note": ""
+      },
+      {
+       "label": "Premiações",
+       "value": 3,
+       "unit": "premiações",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Perfil da comunidade",
+     "title": "Perfil da comunidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Desenvolvedores individuais",
+       "value": 13,
+       "unit": "pessoas",
+       "note": ""
+      },
+      {
+       "label": "Estúdios",
+       "value": 10,
+       "unit": "estúdios",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Contratos",
+     "title": "Contratos",
+     "bar": false,
+     "items": [
+      {
+       "label": "Contratos realizados",
+       "value": 28,
+       "unit": "contratos",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "key": "Diversidade",
+     "title": "Diversidade",
+     "bar": false,
+     "items": [
+      {
+       "label": "Entre sócios: minorias / pessoas negras / mulheres / LGBTQIA+",
+       "value": 35,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Entre colaboradores: minorias / pessoas negras / mulheres / LGBTQIA+",
+       "value": 30,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Comunicação inclusiva",
+       "value": 13,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Ações internas das empresas",
+       "value": 9,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Contratação ativa",
+       "value": 9,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade nos jogos",
+       "value": 43,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: diversas etnias",
+       "value": 17,
+       "unit": "%",
+       "note": ""
+      },
+      {
+       "label": "Representatividade: diversos gêneros",
+       "value": 13,
+       "unit": "%",
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "pdf": null,
+   "credits": "Design: Heitor Dias",
+   "article": null
+  }
+ }
+}

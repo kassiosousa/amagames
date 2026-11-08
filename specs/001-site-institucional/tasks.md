@@ -19,7 +19,7 @@
 ## Pendente
 - [ ] T-10 Conferir CA-03 a CA-06 manualmente em 360 px e desktop (RNF-01)
 - [ ] T-11 Preencher diretoria com nomes reais (RF-04) — depende da associação
-- [ ] T-12 Completar lista de estúdios e vincular jogos a estúdios (RF-04)
+- [x] T-12 Lista de estúdios e vínculo com jogos: resolvido pela spec 003 (planilha de estúdios, `studios.json` e contagem de jogos por estúdio). A lista oficial ainda deve ser conferida pela associação
 - [ ] T-13 Fotos reais: 3 de 4 slides já têm foto em `public/slides/`; falta a do slide Guarnicê (RF-02)
 - [x] T-14 Parceiros com logo (`name` + `image`) na home (RF-03)
 - [ ] T-15 Confirmar Instagram e e-mail (RF-09)

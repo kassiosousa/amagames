@@ -4,7 +4,11 @@ import Header from './components/Header.jsx'
 import Footer from './components/Footer.jsx'
 import Home from './pages/Home.jsx'
 import Jogos from './pages/Jogos.jsx'
-import { Diretoria, ListaEstudios, Projetos, Mapeamento } from './pages/Pages.jsx'
+import Estudios from './pages/Estudios.jsx'
+import Projetos from './pages/Projetos.jsx'
+import Mapeamento from './pages/Mapeamento.jsx'
+import Imprensa from './pages/Imprensa.jsx'
+import Diretoria from './pages/Diretoria.jsx'
 
 function ScrollManager() {
   const { pathname, state } = useLocation()
@@ -26,10 +30,11 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/diretoria" element={<Diretoria />} />
-          <Route path="/estudios" element={<ListaEstudios />} />
+          <Route path="/estudios" element={<Estudios />} />
           <Route path="/jogos" element={<Jogos />} />
           <Route path="/projetos" element={<Projetos />} />
           <Route path="/mapeamento" element={<Mapeamento />} />
+          <Route path="/imprensa" element={<Imprensa />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </main>

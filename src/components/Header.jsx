@@ -13,6 +13,7 @@ const pages = [
   ['/diretoria', 'Diretoria'],
   ['/projetos', 'Projetos'],
   ['/mapeamento', 'Mapeamento'],
+  ['/imprensa', 'Imprensa'],
 ]
 
 export default function Header() {

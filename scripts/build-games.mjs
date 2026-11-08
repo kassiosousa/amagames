@@ -64,7 +64,9 @@ wb.eachSheet((ws) => {
       studio: c(2),
       studioFilter: jam ? GAME_JAM : c(2),
       jam,
-      steam: /store\.steampowered\.com\//.test(access),
+      status: c(15), // coluna Situação (vazio = lançado; "Em desenvolvimento")
+      // Destaque da Steam só vale para jogo já publicado na loja.
+      steam: /store\.steampowered\.com\//.test(access) && !/desenvolvimento/i.test(c(15)),
       tags: tags(c(3)),
       platform: c(4),
       engine: c(5),

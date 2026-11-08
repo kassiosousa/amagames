@@ -1,0 +1,183 @@
+[
+ {
+  "id": "estudio-7",
+  "name": "Orinn.studio",
+  "aliases": [
+   "Orinn"
+  ],
+  "city": "São Luís",
+  "founded": 2026,
+  "active": true,
+  "situation": "Ativo",
+  "formalization": "Equipe ou estúdio formalizado",
+  "areas": [
+   "Jogos autorais"
+  ],
+  "summary": "Empresa independente de desenvolvimento de jogos, softwares e design digital.",
+  "site": "https://portfolio-orinn-c464.vercel.app",
+  "instagram": "https://www.instagram.com/orinn.studio/",
+  "link": "https://portfolio-orinn-c464.vercel.app",
+  "logo": "./estudios/orinn-studio.png",
+  "hasLogo": true,
+  "gamesCount": 1,
+  "steamCount": 0,
+  "gameIds": [
+   "2026-20"
+  ],
+  "featured": true
+ },
+ {
+  "id": "estudio-4",
+  "name": "Astral Game Studio",
+  "aliases": [],
+  "city": "São Luís",
+  "founded": 2020,
+  "active": true,
+  "situation": "Ativo",
+  "formalization": "Desenvolvedor individual (pessoa juridica MEI)",
+  "areas": [
+   "Jogos autorais"
+  ],
+  "summary": "Estúdio independente de desenvolvimento de jogos de São Luís (MA). Autor de Asyren, Folklore Legends, Brick Blast Galaxy e Zilado. Desenvolve Scarlet Manor: The Heir, jogo de terror point and click com demo na Steam.",
+  "site": "https://astralgamestudio.itch.io",
+  "instagram": "https://instagram.com/astralgamestudio",
+  "link": "https://astralgamestudio.itch.io",
+  "logo": "./estudios/astral-game-studio.png",
+  "hasLogo": true,
+  "gamesCount": 5,
+  "steamCount": 1,
+  "gameIds": [
+   "2024-7",
+   "2023-6",
+   "2022-3",
+   "2022-2",
+   "2021-5"
+  ],
+  "featured": true
+ },
+ {
+  "id": "estudio-2",
+  "name": "Wired Dreams Studio",
+  "aliases": [],
+  "city": "São Luís",
+  "founded": 2020,
+  "active": true,
+  "situation": "Ativo",
+  "formalization": "Desenvolvedor individual (pessoa jurídica MEI)",
+  "areas": [
+   "Jogos autorais"
+  ],
+  "summary": "Estúdio de São Luís (MA) de jogos de quebra-cabeça e estratégia em grade. Autor de Red Ronin, Upaon: A Snake's Journey, Raven's Hike, Undergrave, Dogfights in SLZ e FROGUE, e co-desenvolvedor de Arashi Gaiden.",
+  "site": "https://wired-dreams-studio.itch.io",
+  "instagram": "https://www.instagram.com/thi_o_oliveira/",
+  "link": "https://wired-dreams-studio.itch.io",
+  "logo": "./estudios/wired-dreams-studio.png",
+  "hasLogo": true,
+  "gamesCount": 7,
+  "steamCount": 7,
+  "gameIds": [
+   "2025-3",
+   "2024-2",
+   "2023-3",
+   "2023-2",
+   "2021-4",
+   "2021-3",
+   "2021-2"
+  ],
+  "featured": true
+ },
+ {
+  "id": "estudio-3",
+  "name": "OPS Game Studio",
+  "aliases": [
+   "OPS Studio"
+  ],
+  "city": "São Luís",
+  "founded": 2018,
+  "active": true,
+  "situation": "Ativo",
+  "formalization": "Equipe ou estúdio formalizado",
+  "areas": [
+   "Jogos autorais",
+   "Advergames",
+   "Serious games"
+  ],
+  "summary": "Estúdio independente de São Luís (MA), fundado em 2018, com foco em contar histórias marcantes. Autor de Lunar Axe, 1º lugar no Brasil Tá Pra Game 2026, de Final Forge e Toureon, e de jogos ligados ao Maranhão como Yalodê e Corre Sio!. Desenvolve Desert Mirage.",
+  "site": "https://opsgamestudio.com/",
+  "instagram": "https://www.instagram.com/opsgamestudio",
+  "link": "https://opsgamestudio.com/",
+  "logo": "./estudios/ops-game-studio.png",
+  "hasLogo": true,
+  "gamesCount": 10,
+  "steamCount": 3,
+  "gameIds": [
+   "2026-21",
+   "2026-2",
+   "2025-14",
+   "2024-6",
+   "2023-5",
+   "2022-6",
+   "2022-4",
+   "2021-6",
+   "2020-2",
+   "2019-4"
+  ],
+  "featured": true
+ },
+ {
+  "id": "estudio-5",
+  "name": "Hardcoffee Game Studio",
+  "aliases": [],
+  "city": "São Luís",
+  "founded": 2014,
+  "active": true,
+  "situation": "Ativo",
+  "formalization": "Desenvolvedor individual (pessoa física)",
+  "areas": [
+   "Jogos autorais"
+  ],
+  "summary": "Estúdio autor de Logic Light, Animais da Amazônia e Townmaker, além de jogos feitos em game jam (Post Mortem, Bat Beat e Hello, Adventurer!).",
+  "site": "https://hardcoffee.itch.io",
+  "instagram": "",
+  "link": "https://hardcoffee.itch.io",
+  "logo": "./estudios/hardcoffee-game-studio.png",
+  "hasLogo": true,
+  "gamesCount": 6,
+  "steamCount": 2,
+  "gameIds": [
+   "2026-4",
+   "2026-3",
+   "2025-5",
+   "2025-4",
+   "2022-5",
+   "2018-2"
+  ],
+  "featured": true
+ },
+ {
+  "id": "estudio-6",
+  "name": "Clops Game Studio",
+  "aliases": [],
+  "city": "São Luís",
+  "founded": 2013,
+  "active": true,
+  "situation": "Ativo",
+  "formalization": "Equipe ou estúdio formalizado",
+  "areas": [
+   "Jogos autorais"
+  ],
+  "summary": "Pequeno estúdio independente de São Luís (MA), fundado em 2013, focado em jogos com gráficos 2D, boa jogabilidade e arte de qualidade. Autor de UniDuni, finalista no Tokyo Game Show 2021.",
+  "site": "https://studioclops.com",
+  "instagram": "https://www.instagram.com/studioclops",
+  "link": "https://studioclops.com",
+  "logo": "./estudios/clops-game-studio.png",
+  "hasLogo": true,
+  "gamesCount": 2,
+  "steamCount": 2,
+  "gameIds": [
+   "2025-2",
+   "2023-4"
+  ],
+  "featured": true
+ }
+]

@@ -1,5 +1,44 @@
 [
  {
+  "id": "2026-21",
+  "year": 2026,
+  "order": 21,
+  "title": "Desert Mirage",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "status": "Em desenvolvimento",
+  "steam": false,
+  "tags": [
+   "Aventura",
+   "Mistério"
+  ],
+  "platform": "PC",
+  "engine": "",
+  "summary": "Em desenvolvimento. Aventura de mistério e investigação em terceira pessoa, inspirada no folclore brasileiro. Bia procura a irmã desaparecida em um deserto de dunas e lagoas, guiada por uma bússola que não aponta o norte, e suas escolhas mudam a história e os finais.",
+  "access": "https://store.steampowered.com/app/2833160/Desert_Mirage/",
+  "image": "./jogos/2026-desert-mirage.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2026-20",
+  "year": 2026,
+  "order": 20,
+  "title": "Anil",
+  "studio": "Orinn.studio",
+  "studioFilter": "Orinn.studio",
+  "jam": false,
+  "status": "Em desenvolvimento",
+  "steam": false,
+  "tags": [],
+  "platform": "Web",
+  "engine": "Godot",
+  "summary": "Em desenvolvimento. Protótipo do sistema de combate de Anil, jogo do Orinn Studio feito em Godot e jogável no navegador.",
+  "access": "https://orinnstudio.itch.io/anil-sistema-de-combate",
+  "image": "./jogos/2026-anil.png",
+  "hasCover": true
+ },
+ {
   "id": "2026-19",
   "year": 2026,
   "order": 19,
@@ -7,6 +46,7 @@
   "studio": "Birucraft",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Puzzle",
@@ -27,6 +67,7 @@
   "studio": "Kassio Sousa, Gabriel Drummond e Leonardo Lindoso",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Puzzle"
@@ -46,6 +87,7 @@
   "studio": "Luiz Guimaraes, Évila Isabelle Castelo Branco, Izabella Velez, Paulo Henrique da Silva e Karla Cristhina",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Visual Novel",
@@ -66,6 +108,7 @@
   "studio": "Rafael Solano, Marcos Vinicius Januário e Raíssa Kaline Pinto",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Casual"
@@ -85,6 +128,7 @@
   "studio": "Rayara Vitória Pinho, Emerson Kalil Costa, Beatriz Salles e Vinícius Oliveira",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Aventura",
@@ -105,6 +149,7 @@
   "studio": "Artur Pinheiro, Gabriel Drummond e Flávia Naoshii",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Puzzle",
@@ -125,6 +170,7 @@
   "studio": "José Paulo Neto",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Arcade"
@@ -144,6 +190,7 @@
   "studio": "Osvaldo Neto, Gabriel Sales, Eduardo da Costa, Matheus Muniz, Vinícius Oliveira, Erika Silva, Diogo Silva e Pedro Ferreira",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Musical"
@@ -163,6 +210,7 @@
   "studio": "Antônio Froz, João Filho e Marcos Vinicius Estrela",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Ação",
@@ -183,6 +231,7 @@
   "studio": "Osvaldo Neto, Gabriel Sales, Eduardo da Costa, Matheus Muniz e Vinícius Oliveira",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Beat'em Up"
@@ -202,6 +251,7 @@
   "studio": "Graça Mariel Haickel, Lara Mallena, Victor Hugo Ramos, Thiago Diniz, Gabriel Dantas, Nayara Rayane Dutra e Emanuelle Lima",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Visual Novel",
@@ -222,6 +272,7 @@
   "studio": "Diego Oliveira, Emerton Rian, Vinicius Azambuja, Gustavo Ramon, Vinicius Andrade, Flávio Guilherme Santana, Pedro Pinheiro e cb1745i",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Puzzle",
@@ -242,6 +293,7 @@
   "studio": "Pedro Torres, Ananda Costa, Lucas Glauber, Lucas Gaia, Victor Matheus Silva e Matheus Nogueira",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Plataforma"
@@ -261,6 +313,7 @@
   "studio": "Débora de Paula, Elias Martin, Flávia Naoshii, Gabriel Drummond e Sidney Melo",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Visual Novel",
@@ -281,6 +334,7 @@
   "studio": "Márcio Oliveira e Heitor Dias",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Puzzle",
@@ -301,6 +355,7 @@
   "studio": "Hardcoffee Game Studio",
   "studioFilter": "Hardcoffee Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Puzzle"
@@ -320,6 +375,7 @@
   "studio": "Hardcoffee Game Studio",
   "studioFilter": "Hardcoffee Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Puzzle"
@@ -339,6 +395,7 @@
   "studio": "OPS Game Studio",
   "studioFilter": "OPS Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Tower Defense",
@@ -352,6 +409,28 @@
   "hasCover": true
  },
  {
+  "id": "2025-14",
+  "year": 2025,
+  "order": 14,
+  "title": "Yalodê",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "status": "",
+  "steam": false,
+  "tags": [
+   "Ação",
+   "Aventura",
+   "Plataforma"
+  ],
+  "platform": "PC",
+  "engine": "",
+  "summary": "Aventura em terceira pessoa que acompanha Yalodê, jovem com o poder de se transformar em sereia e voar, que enfrenta desafios para salvar a cidade de São Luís de um vilão tecnológico. O jogo explora ambientes submersos e urbanos, com criaturas mágicas e inimigos futuristas.",
+  "access": "https://opsgames.itch.io/yalode",
+  "image": "./jogos/2025-yalode.png",
+  "hasCover": true
+ },
+ {
   "id": "2025-13",
   "year": 2025,
   "order": 13,
@@ -359,6 +438,7 @@
   "studio": "Jorge Ferreira, Sawrth e Bellak",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Shoot 'em Up",
@@ -379,6 +459,7 @@
   "studio": "Antônio Froz e João Filho",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Plataforma"
@@ -398,6 +479,7 @@
   "studio": "José Paulo Neto",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Simulação"
@@ -417,6 +499,7 @@
   "studio": "Osvaldo Neto, Erika Silva, Diogo Silva, Gabriel Sales, Matheus Muniz e Pedro Ferreira",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Clicar e apontar",
@@ -437,6 +520,7 @@
   "studio": "Átila Vinícius Rocha, José Carlos Júnior, Victor Matheus Silva e Medivelion",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Plataforma"
@@ -456,6 +540,7 @@
   "studio": "Débora de Paula, Sidney Melo, Márcio Oliveira, Artur Pinheiro, Ana Ribeiro, Jeanine Adler e Gabriel Drummond",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Clicar e apontar",
@@ -476,6 +561,7 @@
   "studio": "Kassio Sousa, Jasmyn Lemos, Thiago Oliveira, Iasmin Ribeiro e Luis Fernando Cartaxo",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Clicar e apontar",
@@ -496,6 +582,7 @@
   "studio": "Thiago Oliveira, Heitor Dias, Ludmila Dias e Rafael Solano",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Clicar e apontar",
@@ -516,6 +603,7 @@
   "studio": "Hardcoffee Game Studio",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Estratégia",
@@ -536,6 +624,7 @@
   "studio": "Hardcoffee Game Studio",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Plataforma"
@@ -555,6 +644,7 @@
   "studio": "Wired Dreams Studio / Statera Studio",
   "studioFilter": "Wired Dreams Studio / Statera Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Estratégia",
@@ -575,6 +665,7 @@
   "studio": "Clops Game Studio",
   "studioFilter": "Clops Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Plataforma",
@@ -588,6 +679,49 @@
   "hasCover": true
  },
  {
+  "id": "2024-7",
+  "year": 2024,
+  "order": 7,
+  "title": "Scarlet Manor: The Heir",
+  "studio": "Astral Game Studio",
+  "studioFilter": "Astral Game Studio",
+  "jam": false,
+  "status": "Em desenvolvimento",
+  "steam": false,
+  "tags": [
+   "Terror",
+   "Clicar e apontar",
+   "Puzzle"
+  ],
+  "platform": "PC",
+  "engine": "",
+  "summary": "Em desenvolvimento. Aventura de terror 2D em point and click, com quebra-cabeças complexos, em que o jogador vive Lúcio Sacramento, zelador de uma mansão misteriosa e perturbadora, e descobre os segredos escondidos entre as paredes. Há demo disponível na Steam e no itch.io.",
+  "access": "https://store.steampowered.com/app/2147620/Scarlet_Manor_The_Heir/",
+  "image": "./jogos/2024-scarlet-manor-the-heir.jpg",
+  "hasCover": true
+ },
+ {
+  "id": "2024-6",
+  "year": 2024,
+  "order": 6,
+  "title": "Diluvio",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "status": "",
+  "steam": false,
+  "tags": [
+   "Plataforma",
+   "Aventura"
+  ],
+  "platform": "Web",
+  "engine": "Unity",
+  "summary": "Jogo de plataforma com gráficos 2D em pixel art que narra a aventura de Yalodê para tentar salvar o seu mundo e torná-lo novamente um local harmonioso e habitável.",
+  "access": "https://opsgames.itch.io/diluvio",
+  "image": "./jogos/2024-diluvio.png",
+  "hasCover": true
+ },
+ {
   "id": "2024-5",
   "year": 2024,
   "order": 5,
@@ -595,6 +729,7 @@
   "studio": "Lucas Ferreira",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Plataforma",
@@ -615,6 +750,7 @@
   "studio": "Sidney Melo, Heitor Dias e Débora de Paula",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Trivia",
@@ -635,6 +771,7 @@
   "studio": "Artur Pinheiro, Heitor Dias, Gabriel Drummond, Sidney Melo, Débora de Paula e Márcio Oliveira",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Ação",
@@ -655,6 +792,7 @@
   "studio": "Wired Dreams Studio",
   "studioFilter": "Wired Dreams Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Roguelike",
@@ -675,6 +813,7 @@
   "studio": "Cael Borges, Débora de Paula, Thiago Oliveira, Jeanine Adler e Rafael Solano",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Estratégia"
@@ -694,6 +833,7 @@
   "studio": "Ana Ribeiro, Gabriel Drumond, Artur Pinheiro, Antonio Froz, Marcio Oliveira, Sidney Melo, Debora de Paula e Heitor Dias",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Ação",
@@ -714,6 +854,7 @@
   "studio": "Astral Game Studio",
   "studioFilter": "Astral Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Plataforma",
@@ -734,6 +875,7 @@
   "studio": "OPS Game Studio",
   "studioFilter": "OPS Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Roguelike",
@@ -754,6 +896,7 @@
   "studio": "Clops Game Studio",
   "studioFilter": "Clops Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Estratégia",
@@ -774,6 +917,7 @@
   "studio": "Wired Dreams Studio",
   "studioFilter": "Wired Dreams Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Shooter",
@@ -794,6 +938,7 @@
   "studio": "Wired Dreams Studio",
   "studioFilter": "Wired Dreams Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Roguelike",
@@ -814,6 +959,7 @@
   "studio": "OPS Game Studio",
   "studioFilter": "OPS Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Clicar e apontar",
@@ -834,6 +980,7 @@
   "studio": "Hardcoffee Game Studio",
   "studioFilter": "Hardcoffee Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Puzzle",
@@ -854,6 +1001,7 @@
   "studio": "OPS Game Studio",
   "studioFilter": "OPS Game Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Clicar e apontar",
@@ -874,6 +1022,7 @@
   "studio": "Astral Game Studio",
   "studioFilter": "Astral Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Casual",
@@ -894,6 +1043,7 @@
   "studio": "Astral Game Studio",
   "studioFilter": "Astral Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Tower Defense"
@@ -913,6 +1063,7 @@
   "studio": "OPS Game Studio",
   "studioFilter": "OPS Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Ação",
@@ -933,6 +1084,7 @@
   "studio": "Astral Game Studio",
   "studioFilter": "Astral Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Plataforma",
@@ -953,6 +1105,7 @@
   "studio": "Wired Dreams Studio",
   "studioFilter": "Wired Dreams Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Plataforma",
@@ -973,6 +1126,7 @@
   "studio": "Wired Dreams Studio",
   "studioFilter": "Wired Dreams Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Puzzle"
@@ -992,6 +1146,7 @@
   "studio": "Wired Dreams Studio",
   "studioFilter": "Wired Dreams Studio",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Estratégia",
@@ -1005,6 +1160,48 @@
   "hasCover": true
  },
  {
+  "id": "2020-2",
+  "year": 2020,
+  "order": 2,
+  "title": "Super Dev",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "status": "",
+  "steam": false,
+  "tags": [
+   "Simulação",
+   "Educacional"
+  ],
+  "platform": "Mobile",
+  "engine": "",
+  "summary": "Jogo em que o jogador administra um estúdio de jogos e enfrenta desafios inspirados na gestão real, mantendo os atributos do estúdio equilibrados para alcançar pontuações mais altas. Lançado em setembro de 2020 para Android pela Liga Acadêmica de Jogos Sérios, Gamificação e Programação da UEMA (LAJGAMP/UEMA) em parceria com a OPS Game Studio.",
+  "access": "https://www.uema.br/2020/10/super-dev-liga-academica-de-engenharia-da-computacao-e-empresa-ops-game-studio-lancam-jogo-sobre-empreendedorismo/",
+  "image": "./jogos/2020-super-dev.png",
+  "hasCover": true
+ },
+ {
+  "id": "2019-4",
+  "year": 2019,
+  "order": 4,
+  "title": "Corre Sio!",
+  "studio": "OPS Game Studio",
+  "studioFilter": "OPS Game Studio",
+  "jam": false,
+  "status": "",
+  "steam": false,
+  "tags": [
+   "Runner",
+   "Aventura"
+  ],
+  "platform": "Mobile",
+  "engine": "Unity",
+  "summary": "Aventura infinita de visual retrô que passa por vários cenários do Maranhão, explorando a cultura e os costumes locais. O objetivo é percorrer a maior distância e coletar o máximo de tampinhas; ao bater em três obstáculos seguidos a partida acaba e os pontos entram no ranking geral. Projeto da Cerveja Magnífica com o grupo de humor Pão com Ovo, desenvolvido com a Agência Phocus.",
+  "access": "https://maximize.com.br/portfolio/corre-sio",
+  "image": "./jogos/2019-corre-sio.jpg",
+  "hasCover": true
+ },
+ {
   "id": "2019-3",
   "year": 2019,
   "order": 3,
@@ -1012,6 +1209,7 @@
   "studio": "BagDev Studios",
   "studioFilter": "BagDev Studios",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Plataforma",
@@ -1032,6 +1230,7 @@
   "studio": "Whalesoft Entertainment",
   "studioFilter": "Whalesoft Entertainment",
   "jam": false,
+  "status": "",
   "steam": true,
   "tags": [
    "Shoot 'em Up",
@@ -1052,6 +1251,7 @@
   "studio": "Hardcoffee Game Studio",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Clicar e apontar",
@@ -1072,6 +1272,7 @@
   "studio": "Zogui Game Studio",
   "studioFilter": "Zogui Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Runner",
@@ -1092,6 +1293,7 @@
   "studio": "Zogui Game Studio",
   "studioFilter": "Zogui Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Casual"
@@ -1111,6 +1313,7 @@
   "studio": "Zogui Game Studio",
   "studioFilter": "Game Jam",
   "jam": true,
+  "status": "",
   "steam": false,
   "tags": [
    "Ação"
@@ -1130,6 +1333,7 @@
   "studio": "Zogui Game Studio",
   "studioFilter": "Zogui Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Trivia"
@@ -1149,6 +1353,7 @@
   "studio": "Zogui Game Studio",
   "studioFilter": "Zogui Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Clicar e apontar",
@@ -1169,6 +1374,7 @@
   "studio": "Zogui Game Studio",
   "studioFilter": "Zogui Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Runner",
@@ -1189,6 +1395,7 @@
   "studio": "Alunos do IFMA - Ana Beatriz Rodrigues dos Santos, Anny Kevellyn dos Santos Alencar, Rebeca de Sá Pereira, Valter dos Santos Mendonça Neto e Ilka Márcia Ribeiro de Souza Serra",
   "studioFilter": "Alunos do IFMA - Ana Beatriz Rodrigues dos Santos, Anny Kevellyn dos Santos Alencar, Rebeca de Sá Pereira, Valter dos Santos Mendonça Neto e Ilka Márcia Ribeiro de Souza Serra",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Educacional",
@@ -1209,6 +1416,7 @@
   "studio": "Taverna Interactive",
   "studioFilter": "Taverna Interactive",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Musical",
@@ -1229,6 +1437,7 @@
   "studio": "Zogui Game Studio",
   "studioFilter": "Zogui Game Studio",
   "jam": false,
+  "status": "",
   "steam": false,
   "tags": [
    "Runner",

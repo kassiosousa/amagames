@@ -10,4 +10,6 @@
 - [x] T-08 Script: marcar `steam` (acesso em store.steampowered.com), `jam` (coluna Contexto = "Game Jam") e `studioFilter` ("Game Jam" para os jogos de jam) (RF-01, RF-05)
 - [x] T-09 Filtro Estúdio com a categoria "Game Jam" agrupando os jogos de jam, sempre a primeira opção (RF-05)
 - [x] T-10 Filtro Estilo: "Quebra-cabeça" unificado em "Puzzle" (tabela `synonyms` no script) (RF-05)
+- [x] T-13 Reexecução com a planilha atualizada (70 jogos): `games.json` regerado, 7 páginas na lista, destaques da Steam inalterados, capas todas presentes (2026-11-06)
+- [x] T-12 Coluna Situação na planilha; jogos em desenvolvimento não entram nos destaques da Steam (RF-01)
 - [x] T-11 Título do card abre a página pública do jogo em nova aba; sem link quando a planilha não informa (RF-07)
