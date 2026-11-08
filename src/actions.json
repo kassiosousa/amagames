@@ -1,0 +1,74 @@
+[
+ {
+  "id": "acao-2",
+  "order": 1,
+  "line": 2,
+  "name": "Global Game Jam São Luís",
+  "kind": "Evento anual",
+  "description": "Maratona de 48h sediada pela AMAGAMES há mais de uma década. Edição 2026 no Complexo Trapiche (Parque Tecnológico da Prefeitura).",
+  "link": "",
+  "external": false,
+  "icon": "./acoes/global-game-jam-sao-luis.svg",
+  "hasIcon": true
+ },
+ {
+  "id": "acao-3",
+  "order": 2,
+  "line": 3,
+  "name": "Mapeamento do Ecossistema",
+  "kind": "Pesquisa",
+  "description": "Levantamento anual de estúdios, faturamento e produção, publicado nos anais da SBGames 2024.",
+  "link": "/mapeamento",
+  "external": false,
+  "icon": "./acoes/mapeamento-do-ecossistema.svg",
+  "hasIcon": true
+ },
+ {
+  "id": "acao-4",
+  "order": 3,
+  "line": 4,
+  "name": "Relato Trimestral",
+  "kind": "Transparência",
+  "description": "Registro periódico das atividades e conquistas da cena maranhense.",
+  "link": "",
+  "external": false,
+  "icon": "./acoes/relato-trimestral.svg",
+  "hasIcon": true
+ },
+ {
+  "id": "acao-5",
+  "order": 4,
+  "line": 5,
+  "name": "Missões técnicas (Sebrae-MA)",
+  "kind": "Mercado",
+  "description": "Apoio para levar jogos indicados e premiados a festivais como o BIG Festival.",
+  "link": "",
+  "external": false,
+  "icon": "./acoes/missoes-tecnicas.svg",
+  "hasIcon": true
+ },
+ {
+  "id": "acao-6",
+  "order": 5,
+  "line": 6,
+  "name": "Mostra de jogos no Guarnicê",
+  "kind": "Cultura",
+  "description": "Mostra competitiva de jogos maranhenses no Festival Guarnicê de Cinema.",
+  "link": "",
+  "external": false,
+  "icon": "./acoes/mostra-de-jogos-guarnice.svg",
+  "hasIcon": true
+ },
+ {
+  "id": "acao-7",
+  "order": 6,
+  "line": 7,
+  "name": "MAGE – Maranhão GameDev Event",
+  "kind": "Evento",
+  "description": "Encontro da comunidade de desenvolvimento de jogos do estado.",
+  "link": "",
+  "external": false,
+  "icon": "./acoes/mage-maranhao-gamedev-event.svg",
+  "hasIcon": true
+ }
+]

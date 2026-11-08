@@ -1,45 +1,30 @@
 import { useMemo } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import games from '../games.json'
+import studios from '../studios.json'
+import FilterSelect from '../components/FilterSelect.jsx'
 import GameCard from '../components/GameCard.jsx'
+import Pagination from '../components/Pagination.jsx'
 import { PageShell } from '../components/ui.jsx'
 
 const PER_PAGE = 10
+const GAME_JAM = 'Game Jam'
 const byName = (a, b) => a.localeCompare(b, 'pt-BR')
 const years = [...new Set(games.map((g) => g.year))].sort((a, b) => b - a)
 const styles = [...new Set(games.flatMap((g) => g.tags))].sort(byName)
-// Jogos de game jam ficam todos na categoria "Game Jam", sempre a primeira da lista.
-const studios = [...new Set(games.map((g) => g.studioFilter).filter(Boolean))].sort(
-  (a, b) => (b === 'Game Jam') - (a === 'Game Jam') || byName(a, b),
-)
 
-function Filter({ label, value, onChange, options }) {
-  return (
-    <label className="flex min-w-0 flex-col gap-1 text-xs font-medium uppercase tracking-wider text-mute">
-      {label}
-      <select
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        className="w-full min-w-0 border border-line bg-paper px-3 py-2 text-sm font-normal normal-case tracking-normal text-ink"
-      >
-        <option value="">Todos</option>
-        {options.map((o) => <option key={o} value={o}>{o}</option>)}
-      </select>
-    </label>
-  )
-}
+// Estúdios cadastrados filtram pelos jogos que o script associou a eles (nome, nomes
+// alternativos e parcerias); os demais usam o nome escrito na planilha de jogos.
+const registered = new Map(studios.map((s) => [s.name, new Set(s.gameIds)]))
+const linked = new Set(studios.flatMap((s) => s.gameIds))
+const others = [...new Set(games.filter((g) => !g.jam && !linked.has(g.id) && g.studio).map((g) => g.studio))]
+// "Game Jam" sempre primeiro, depois os estúdios cadastrados, depois os demais.
+const studioOptions = [GAME_JAM, ...[...registered.keys()].sort(byName), ...others.sort(byName)]
 
-// Páginas visíveis: 1, atual±1 e última, com reticências.
-function pageList(page, total) {
-  const set = new Set([1, total, page - 1, page, page + 1].filter((p) => p >= 1 && p <= total))
-  const list = []
-  let prev = 0
-  for (const p of [...set].sort((a, b) => a - b)) {
-    if (p - prev > 1) list.push('…')
-    list.push(p)
-    prev = p
-  }
-  return list
+const matchStudio = (g, estudio) => {
+  if (estudio === GAME_JAM) return g.jam
+  const ids = registered.get(estudio)
+  return ids ? ids.has(g.id) : g.studio === estudio
 }
 
 export default function Jogos() {
@@ -54,7 +39,7 @@ export default function Jogos() {
         (g) =>
           (!ano || String(g.year) === ano) &&
           (!estilo || g.tags.includes(estilo)) &&
-          (!estudio || g.studioFilter === estudio),
+          (!estudio || matchStudio(g, estudio)),
       ),
     [ano, estilo, estudio],
   )
@@ -77,13 +62,15 @@ export default function Jogos() {
     window.scrollTo({ top: 0 })
   }
   const hasFilter = ano || estilo || estudio
+  // Estúdio vindo de um link (card de estúdio) que não está na lista continua visível no filtro.
+  const options = estudio && !studioOptions.includes(estudio) ? [...studioOptions, estudio] : studioOptions
 
   return (
     <PageShell kicker="Comunidade" title="Lista de jogos">
       <div className="grid gap-4 sm:grid-cols-3">
-        <Filter label="Ano de publicação" value={ano} onChange={setFilter('ano')} options={years.map(String)} />
-        <Filter label="Estilo" value={estilo} onChange={setFilter('estilo')} options={styles} />
-        <Filter label="Estúdio" value={estudio} onChange={setFilter('estudio')} options={studios} />
+        <FilterSelect label="Ano de publicação" value={ano} onChange={setFilter('ano')} options={years.map(String)} />
+        <FilterSelect label="Estilo" value={estilo} onChange={setFilter('estilo')} options={styles} />
+        <FilterSelect label="Estúdio" value={estudio} onChange={setFilter('estudio')} options={options} />
       </div>
       <div className="mt-4 flex items-center justify-between text-sm text-mute">
         <p aria-live="polite">{filtered.length} {filtered.length === 1 ? 'jogo' : 'jogos'}</p>
@@ -100,26 +87,7 @@ export default function Jogos() {
         </div>
       )}
 
-      {total > 1 && (
-        <nav aria-label="Paginação" className="mt-12 flex flex-wrap items-center justify-center gap-1">
-          <button aria-label="Página anterior" disabled={page === 1} onClick={() => goPage(page - 1)} className="px-3 py-2 text-xl text-mute enabled:hover:text-ink disabled:opacity-30">‹</button>
-          {pageList(page, total).map((p, i) =>
-            p === '…' ? (
-              <span key={`e${i}`} className="px-2 text-mute">…</span>
-            ) : (
-              <button
-                key={p}
-                aria-current={p === page ? 'page' : undefined}
-                onClick={() => goPage(p)}
-                className={`min-w-9 border-b-2 px-2 py-1.5 text-sm ${p === page ? 'border-brand-red font-bold' : 'border-transparent text-mute hover:text-ink'}`}
-              >
-                {p}
-              </button>
-            ),
-          )}
-          <button aria-label="Próxima página" disabled={page === total} onClick={() => goPage(page + 1)} className="px-3 py-2 text-xl text-mute enabled:hover:text-ink disabled:opacity-30">›</button>
-        </nav>
-      )}
+      <Pagination page={page} total={total} onPage={goPage} />
     </PageShell>
   )
 }

@@ -32,29 +32,3 @@ export function PageShell({ title, kicker, children }) {
     </div>
   )
 }
-
-const card = 'border border-line bg-paper p-6'
-
-export function StudioCard({ s, k = 0 }) {
-  return (
-    <article className={card}>
-      <span className={`block h-1 w-8 ${accent(k)}`} />
-      <h3 className="mt-5 text-lg font-bold">{s.name}</h3>
-      <p className="text-sm text-mute">{s.city}{s.since ? ` · desde ${s.since}` : ''}</p>
-      <p className="mt-3 text-sm">{s.focus}</p>
-      {s.note && <p className="mt-2 text-xs text-mute">{s.note}</p>}
-      {s.confirmar && <p className="mt-3 text-xs text-brand-red">A confirmar</p>}
-    </article>
-  )
-}
-
-export function ProjectCard({ p, k = 0 }) {
-  return (
-    <article className={card}>
-      <span className={`block h-1 w-8 ${accent(k)}`} />
-      <p className="mt-5 text-xs font-medium uppercase tracking-wider text-mute">{p.kind}</p>
-      <h3 className="mt-1 text-lg font-bold">{p.name}</h3>
-      <p className="mt-2 text-sm text-mute">{p.desc}</p>
-    </article>
-  )
-}

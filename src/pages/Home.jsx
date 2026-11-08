@@ -1,7 +1,10 @@
 import Carousel from '../components/Carousel.jsx'
 import GamesCarousel from '../components/GamesCarousel.jsx'
-import { ProjectCard, Section, StudioCard, accent } from '../components/ui.jsx'
-import { about, partners, projects, stats, studios } from '../data.js'
+import StudiosCarousel from '../components/StudiosCarousel.jsx'
+import ActionCard from '../components/ActionCard.jsx'
+import { Section, accent } from '../components/ui.jsx'
+import actions from '../actions.json'
+import { about, partners, stats } from '../data.js'
 
 export default function Home() {
   return (
@@ -36,9 +39,7 @@ export default function Home() {
       </Section>
 
       <Section id="estudios" alt kicker="Estúdios associados" title="Estúdios do Maranhão" link={['/estudios', 'Lista de estúdios']}>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {studios.map((s, k) => <StudioCard key={k} s={s} k={k} />)}
-        </div>
+        <StudiosCarousel />
       </Section>
 
       <Section id="jogos" kicker="Jogos da comunidade" title="Feitos em terras maranhenses" link={['/jogos', 'Lista de jogos']}>
@@ -47,7 +48,7 @@ export default function Home() {
 
       <Section id="acoes" alt kicker="Projetos e ações realizadas" title="O que a AMAGAMES faz" link={['/projetos', 'Todos os projetos']}>
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {projects.slice(0, 6).map((p, k) => <ProjectCard key={p.name} p={p} k={k} />)}
+          {actions.slice(0, 6).map((a) => <ActionCard key={a.id} a={a} />)}
         </div>
         <p className="mt-8 text-sm text-mute">
           Veja os números do <a href="#/mapeamento" className="text-brand-navy underline">mapeamento do ecossistema</a>.

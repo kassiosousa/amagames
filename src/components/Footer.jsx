@@ -12,6 +12,7 @@ export default function Footer() {
           <li><Link className="hover:text-ink" to="/jogos">Lista de jogos</Link></li>
           <li><Link className="hover:text-ink" to="/projetos">Projetos</Link></li>
           <li><Link className="hover:text-ink" to="/mapeamento">Mapeamento</Link></li>
+          <li><Link className="hover:text-ink" to="/imprensa">Imprensa</Link></li>
         </ul>
         <ul className="space-y-2 text-sm text-mute">
           <li><a className="hover:text-ink" href={links.instagram} target="_blank" rel="noreferrer">Instagram</a></li>
