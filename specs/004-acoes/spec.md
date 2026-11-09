@@ -68,4 +68,5 @@ Novas ações além das 6 listadas na aba Ações, página individual de cada a�
 ## Pontos em aberto
 - [A CONFIRMAR] **Links** das ações: só o Mapeamento tem link (interno). Faltam os da Global Game Jam São Luís, do MAGE e do Relato Trimestral; a busca não achou endereço público confirmado (ver research.md).
 - [A CONFIRMAR] Campos extras úteis, se a associação quiser: ano ou periodicidade de cada ação.
-- [A CONFIRMAR] As 30 edições da aba estão em revisão: vários itens "Parcial" e "A confirmar" aguardam datas e locais da associação.
+- Os 30 itens da aba foram verificados pela associação em 2026-11-09 e estão todos "Confirmado"; a etiqueta "Dado a confirmar" não aparece hoje, mas volta sozinha se algum item voltar a "Parcial" ou "A confirmar".
+- **Decisão de 2026-11-09:** todos os itens foram verificados e marcados "Confirmado" na planilha, então nenhuma etiqueta "Dado a confirmar" é exibida (RF-11 continua valendo para dados futuros).

@@ -17,3 +17,4 @@ Formato: `- [x] T-01 descrição (RF-xx, CA-xx)`. Ordem = ordem de execução.
 - [x] T-13 Remover `studios` de `src/data.js`, `ListaEstudios` de `Pages.jsx` e o `StudioCard` antigo de `ui.jsx` (RF-06)
 - [x] T-14 Atualizar `README.md` e `CLAUDE.md` (comando `npm run studios`, planilha de estúdios) e marcar T-12 da spec 001 como resolvida
 - [x] T-15 Build limpo e verificação em 1280 px e 360 px (CA-01 a CA-09). Verificado: lista, filtros, contagens e links dos cards; o carrossel da home foi conferido com 1 card por vez (painel estreito), não com 3 por vez
+- [x] T-16 Ajustar o endereço do estudio Orinn para "https://orinnstudio.com.br/" (planilha e `studios.json` atualizados em 2026-11-09)

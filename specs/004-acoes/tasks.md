@@ -24,3 +24,4 @@ Verificado em `/#/projetos`: 30 itens em 3 páginas de 12, filtros Tipo de açã
 - [x] T-15 Home mantém os 6 cards de `actions.json`; o link "Todos os projetos" continua levando a `/#/projetos` (RF-01, RF-04, CA-01, CA-05)
 - [x] T-16 Atualizar `README.md` e `CLAUDE.md` (aba "Edições" e `editions.json`)
 - [x] T-17 Build limpo e verificação de CA-01 a CA-14 em 1280 px e 360 px (RNF-01)
+- [x] T-18 Remover tag "Dado a confirmar" de todos os projetos, pois já foram todos verificados (aba "Edições": os 17 itens "Parcial"/"A confirmar" passaram a "Confirmado" em 2026-11-09; a lógica da etiqueta segue no código para dados futuros)

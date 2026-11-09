@@ -37,8 +37,8 @@
   "external": false,
   "source": "iMirante, 23/07/2026; O Imparcial, mai/2026",
   "sourceUrl": "https://m.imirante.com/entretenimento/sao-luis/2026/07/23/guarnice-divulga-jogos-digitais-selecionados-para-o-festival",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mostra-de-jogos-guarnice.svg"
  },
  {
@@ -58,8 +58,8 @@
   "external": false,
   "source": "Planilha de jogos (public/jogos); O Imparcial, jan/2026 (números globais de 2025)",
   "sourceUrl": "https://oimparcial.com.br/noticias/2026/01/sao-luis-sedia-maior-evento-de-criacao-de-jogos-do-mundo-a-partir-desta-sexta-30/",
-  "status": "A confirmar",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/global-game-jam-sao-luis.svg"
  },
  {
@@ -121,8 +121,8 @@
   "external": false,
   "source": "Infográfico do mapeamento 2025 (public/mapeamento)",
   "sourceUrl": "",
-  "status": "A confirmar",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mage-maranhao-gamedev-event.svg"
  },
  {
@@ -205,8 +205,8 @@
   "external": false,
   "source": "Site do Festival Guarnicê (47ª edição); O Imparcial, mai/2025",
   "sourceUrl": "https://guarnice47.ufma.br/?p=2773",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mostra-de-jogos-guarnice.svg"
  },
  {
@@ -226,8 +226,8 @@
   "external": false,
   "source": "Infográfico do mapeamento 2024 (public/mapeamento)",
   "sourceUrl": "",
-  "status": "A confirmar",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mage-maranhao-gamedev-event.svg"
  },
  {
@@ -247,8 +247,8 @@
   "external": false,
   "source": "O Imparcial, jan/2024 (\"edições presenciais de 2020, 2022 e 2023\")",
   "sourceUrl": "https://oimparcial.com.br/noticias/2024/01/maratona-global-game-jam-2024-acontece-em-sao-luis-a-partir-de-sexta-feira-26/",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/global-game-jam-sao-luis.svg"
  },
  {
@@ -289,8 +289,8 @@
   "external": false,
   "source": "Artigo SBGames 2024 (histórico)",
   "sourceUrl": "https://sol.sbc.org.br/index.php/sbgames/article/view/32421",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mostra-de-jogos-guarnice.svg"
  },
  {
@@ -310,8 +310,8 @@
   "external": false,
   "source": "Infográfico do mapeamento 2023 (public/mapeamento)",
   "sourceUrl": "",
-  "status": "A confirmar",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mage-maranhao-gamedev-event.svg"
  },
  {
@@ -331,8 +331,8 @@
   "external": false,
   "source": "O Imparcial, jan/2024 (\"edições presenciais de 2020, 2022 e 2023\")",
   "sourceUrl": "https://oimparcial.com.br/noticias/2024/01/maratona-global-game-jam-2024-acontece-em-sao-luis-a-partir-de-sexta-feira-26/",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/global-game-jam-sao-luis.svg"
  },
  {
@@ -373,8 +373,8 @@
   "external": false,
   "source": "Artigo SBGames 2024 (referências)",
   "sourceUrl": "https://sol.sbc.org.br/index.php/sbgames/article/view/32421",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/relato-trimestral.svg"
  },
  {
@@ -394,8 +394,8 @@
   "external": false,
   "source": "O Imparcial, out/2022",
   "sourceUrl": "https://oimparcial.com.br/noticias/2022/10/festival-de-cinema-e-encerrada-com-premiacoes-e-homenagens/",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mostra-de-jogos-guarnice.svg"
  },
  {
@@ -415,8 +415,8 @@
   "external": false,
   "source": "Infográfico do mapeamento 2022 (public/mapeamento)",
   "sourceUrl": "",
-  "status": "A confirmar",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mage-maranhao-gamedev-event.svg"
  },
  {
@@ -457,8 +457,8 @@
   "external": false,
   "source": "Artigo SBGames 2024 (histórico e referências: G1 06/05/2021 e Drops de Jogos)",
   "sourceUrl": "https://sol.sbc.org.br/index.php/sbgames/article/view/32421",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/missoes-tecnicas.svg"
  },
  {
@@ -478,8 +478,8 @@
   "external": false,
   "source": "Catálogo do Festival Guarnicê 2021 (EDUFMA); O Imparcial, mai/2025",
   "sourceUrl": "https://www.edufma.ufma.br/wp-content/uploads/woocommerce_uploads/2023/10/Festival-Guarnic%C3%AA-de-Cinema-2021 .pdf",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/mostra-de-jogos-guarnice.svg"
  },
  {
@@ -583,8 +583,8 @@
   "external": false,
   "source": "Infográfico do mapeamento 2019 (public/mapeamento)",
   "sourceUrl": "",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/generico.svg"
  },
  {
@@ -604,8 +604,8 @@
   "external": false,
   "source": "Informado pela associação; artigo SBGames 2024 (histórico do desenvolvimento de jogos no Maranhão)",
   "sourceUrl": "https://sol.sbc.org.br/index.php/sbgames/article/view/32421",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/global-game-jam-sao-luis.svg"
  },
  {
@@ -625,8 +625,8 @@
   "external": false,
   "source": "Informado pela associação; O Imparcial (jan/2024): \"no Maranhão desde 2012\"",
   "sourceUrl": "https://oimparcial.com.br/noticias/2024/01/maratona-global-game-jam-2024-acontece-em-sao-luis-a-partir-de-sexta-feira-26/",
-  "status": "Parcial",
-  "unconfirmed": true,
+  "status": "Confirmado",
+  "unconfirmed": false,
   "icon": "./acoes/global-game-jam-sao-luis.svg"
  }
 ]
