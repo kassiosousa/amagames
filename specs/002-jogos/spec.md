@@ -31,3 +31,7 @@ Os jogos maranhenses foram mapeados em uma planilha e agora, os jogos possuem da
 
 ## Fora de escopo (v1)
 Busca por informações fora da planilha
+
+## Decisões de 2026-11-09
+- Capas muito largas (proporção acima de 2,5:1) não são recortadas no card: aparecem inteiras sobre o fundo claro.
+- As capas de One Step to Rest e Super Bafo Championship são as cápsulas enviadas pela associação.
