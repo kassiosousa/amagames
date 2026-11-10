@@ -35,3 +35,5 @@ Busca por informações fora da planilha
 ## Decisões de 2026-11-09
 - Capas muito largas (proporção acima de 2,5:1) não são recortadas no card: aparecem inteiras sobre o fundo claro.
 - As capas de One Step to Rest e Super Bafo Championship são as cápsulas enviadas pela associação.
+- Zilado passa a ter capa própria (`2023-zilado.png`). As cápsulas de Zilado, One Step to Rest e Super Bafo Championship são pequenas (cerca de 220 x 80 px) e aparecem inteiras no card; uma versão maior melhoraria a nitidez.
+- Capas ajustadas em 2026-11-09: as três cápsulas pequenas viraram imagens 16:9 (960 x 540 px), iguais à proporção da caixa do card; a ampliação deixa o texto um pouco suave.

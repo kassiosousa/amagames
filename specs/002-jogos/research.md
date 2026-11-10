@@ -25,3 +25,5 @@ Quando não houver referencia de link de imagem, buscar na internet na página o
 
 ## Atualização de 2026-11-09
 A associação enviou as cápsulas de **One Step to Rest** (`2023-one-step-to-rest.png`) e **Super Bafo Championship** (`2023-super-bafo-championship.png`), que passam a ser as capas dos dois jogos no lugar da capa do Marabundle (link Steam repetido na planilha, ainda a confirmar). As cápsulas são faixas de 616 x 80 px.
+
+As cápsulas de 2026-11-09 (Zilado, One Step to Rest e Super Bafo Championship) substituem as anteriores; têm cerca de 220 x 80 px.

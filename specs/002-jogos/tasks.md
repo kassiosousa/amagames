@@ -15,3 +15,5 @@
 - [x] T-11 Título do card abre a página pública do jogo em nova aba; sem link quando a planilha não informa (RF-07)
 - [x] T-14 Capas de "One Step to Rest" (`2023-one-step-to-rest.png`) e "Super Bafo Championship" (`2023-super-bafo-championship.png`) trocadas pelas cápsulas enviadas pela associação em 2026-11-09 (antes usavam a capa do Marabundle); planilha e `games.json` atualizados
 - [x] T-15 `GameCard.jsx`: capas muito largas (proporção acima de 2,5:1, como as cápsulas em faixa de 616 x 80 px) aparecem inteiras (`object-contain`), sem recorte; as demais seguem em `object-cover`
+- [x] T-16 Capas atualizadas com as cápsulas enviadas em 2026-11-09: Zilado (`2023-zilado.png`, antes com a capa do Marabundle), One Step to Rest e Super Bafo Championship (substituem as faixas de 616 x 80 px); planilha e `games.json` atualizados
+- [x] T-17 Cápsulas de Zilado, One Step to Rest e Super Bafo Championship ajustadas para 16:9 exato (960 x 540 px), para caber na caixa do card sem recorte inesperado: recorte em volta do logotipo, ampliação e, onde faltava altura, completando topo e base com a cor de fundo da própria imagem
