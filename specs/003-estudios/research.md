@@ -87,7 +87,7 @@ A 1ª rodada (2026-11-05) criou a planilha, que não existia. Depois a associaç
 | Clops Game Studio | studioclops.com (igual) | Link de origem corrigido (o da planilha dava erro 400 sem o parâmetro `?h=`) |
 | Orinn.studio | **Foto de perfil do Instagram** (antes: marca) | Logo baixada (150 px) de `orinn-studio.jpg`; descrição conferida no itch.io `orinnstudio.itch.io` |
 
-Logos em `public/estudios/`: `wired-dreams-studio.png`, `ops-game-studio.png`, `astral-game-studio.png`, `clops-game-studio.png`, `orinn-studio.jpg`. O Hardcoffee segue com `./brand/assinatura.png`.
+Logos em `public/estudios/`: `wired-dreams-studio.jpg`, `ops-game-studio.png`, `astral-game-studio.png`, `clops-game-studio.png`, `orinn-studio.jpg`. O Hardcoffee segue com `./brand/assinatura.png`.
 
 ### Pendências e pontos de atenção
 - **Instagram de Wired Dreams** na planilha é `thi_o_oliveira`, que parece perfil pessoal, não do estúdio; o RNF-03 pede só canais institucionais. Confirmar se fica.
@@ -109,3 +109,6 @@ A planilha `dados/levantamento-estudios-maranhenses.xlsx` não existia e foi cri
 - Arquivos de logo de cada estúdio em `public/estudios/`.
 - Lista de pendências: estúdios sem logo, sem site e sem fonte para a descrição.
 - Só mostrar e buscar os estudios listados acima
+
+## Atualização de 2026-11-09
+A marca da **Wired Dreams Studio** é a imagem enviada pela associação (`wired-dreams-studio.jpg`, 712 x 280 px), no lugar da logo baixada do DeVuego (`wired-dreams-studio.png`, removida).

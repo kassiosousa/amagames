@@ -22,3 +22,6 @@ Quando não houver referencia de link de imagem, buscar na internet na página o
 - A planilha 'dados/levantamento-jogos-maranhenses.xlsx' atualizada com dados dos jogos maranhenses, incluindo imagens quando possível
 - arquivos de imagens referentes a cada jogo do mapeamento
 
+
+## Atualização de 2026-11-09
+A associação enviou as cápsulas de **One Step to Rest** (`2023-one-step-to-rest.png`) e **Super Bafo Championship** (`2023-super-bafo-championship.png`), que passam a ser as capas dos dois jogos no lugar da capa do Marabundle (link Steam repetido na planilha, ainda a confirmar). As cápsulas são faixas de 616 x 80 px.

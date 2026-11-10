@@ -13,3 +13,5 @@
 - [x] T-13 Reexecução com a planilha atualizada (70 jogos): `games.json` regerado, 7 páginas na lista, destaques da Steam inalterados, capas todas presentes (2026-11-06)
 - [x] T-12 Coluna Situação na planilha; jogos em desenvolvimento não entram nos destaques da Steam (RF-01)
 - [x] T-11 Título do card abre a página pública do jogo em nova aba; sem link quando a planilha não informa (RF-07)
+- [x] T-14 Capas de "One Step to Rest" (`2023-one-step-to-rest.png`) e "Super Bafo Championship" (`2023-super-bafo-championship.png`) trocadas pelas cápsulas enviadas pela associação em 2026-11-09 (antes usavam a capa do Marabundle); planilha e `games.json` atualizados
+- [x] T-15 `GameCard.jsx`: capas muito largas (proporção acima de 2,5:1, como as cápsulas em faixa de 616 x 80 px) aparecem inteiras (`object-contain`), sem recorte; as demais seguem em `object-cover`

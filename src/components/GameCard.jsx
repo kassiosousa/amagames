@@ -1,5 +1,10 @@
+import { useState } from 'react'
+
 // Card de jogo: imagem, título (link para a página pública), tags, resumo e, abaixo, o estúdio (RF-02, RF-07).
+// Imagens muito largas (cápsulas em faixa, como 616 x 80) aparecem inteiras, sem recorte.
 export default function GameCard({ g }) {
+  const [wide, setWide] = useState(false)
+  const fit = !g.hasCover ? 'object-contain p-4' : wide ? 'object-contain p-2' : 'object-cover'
   return (
     <article className="flex h-full flex-col border border-line bg-paper">
       <div className="aspect-video overflow-hidden bg-soft">
@@ -7,7 +12,8 @@ export default function GameCard({ g }) {
           src={g.image}
           alt={g.hasCover ? `Imagem do jogo ${g.title}` : ''}
           loading="lazy"
-          className={`h-full w-full ${g.hasCover ? 'object-cover' : 'object-contain p-4'}`}
+          onLoad={(e) => setWide(e.currentTarget.naturalWidth / e.currentTarget.naturalHeight > 2.5)}
+          className={`h-full w-full ${fit}`}
         />
       </div>
       <div className="flex flex-1 flex-col p-5">
