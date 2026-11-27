@@ -18,3 +18,4 @@ Formato: `- [x] T-01 descrição (RF-xx, CA-xx)`. Ordem = ordem de execução.
 - [x] T-10 Atualizar `README.md` e `CLAUDE.md` (comando `npm run mapping`, planilha do mapeamento)
 - [x] T-12 Comprimir os PDFs de 2025 (27 MB para 1,3 MB, texto pesquisável) e de 2021 (16 MB para 2,7 MB) (RNF-04)
 - [x] T-11 Build limpo e verificação de CA-01 a CA-09 em 1280 px e 360 px (RNF-01)
+- [x] T-13 Correção de 2026-11-27: nomes dos PDFs na planilha alinhados aos arquivos reais (`amagames`); link "Visualizar Infográfico" restaurado nos 6 anos, conferido no `mapping.json` e no `dist/` (RF-05)

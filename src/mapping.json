@@ -13,7 +13,7 @@
    "year": 2019,
    "value": 110000,
    "label": "Mais de 110 mil",
-   "source": "Infográfico do mapeamento 2019 (public/mapeamento/infografico-mapeamento-amaagames-2019.pdf); confirmado no artigo SBGames 2024, p. 8",
+   "source": "Infográfico do mapeamento 2019 (public/mapeamento/infografico-mapeamento-amagames-2019.pdf); confirmado no artigo SBGames 2024, p. 8",
    "note": "O infográfico diz \"mais de 110 mil\"; o artigo usa R$ 110.000",
    "growth": null,
    "growthFrom": null
@@ -22,7 +22,7 @@
    "year": 2021,
    "value": 568000,
    "label": "568 mil",
-   "source": "Infográfico do mapeamento 2021 (public/mapeamento/infografico-mapeamento-amaagames-2021.pdf); confirmado no artigo SBGames 2024, p. 8",
+   "source": "Infográfico do mapeamento 2021 (public/mapeamento/infografico-mapeamento-amagames-2021.pdf); confirmado no artigo SBGames 2024, p. 8",
    "note": "O artigo traz o mesmo valor: R$ 568.000 (de R$ 110.000 em 2019, acréscimo de mais de 500%)",
    "growth": 416,
    "growthFrom": 2019
@@ -31,7 +31,7 @@
    "year": 2022,
    "value": 352000,
    "label": "352 mil",
-   "source": "Infográfico do mapeamento 2022 (public/mapeamento/infografico-mapeamento-amaagames-2022.pdf)",
+   "source": "Infográfico do mapeamento 2022 (public/mapeamento/infografico-mapeamento-amagames-2022.pdf)",
    "note": "Coerente com o artigo: queda de cerca de 38% sobre 2021",
    "growth": -38,
    "growthFrom": 2021
@@ -40,7 +40,7 @@
    "year": 2023,
    "value": 435750,
    "label": "435 mil",
-   "source": "Infográfico do mapeamento 2023 (public/mapeamento/infografico-mapeamento-amaagames-2023.pdf); valor exato no artigo SBGames 2024, p. 7 (R$ 435.749,97)",
+   "source": "Infográfico do mapeamento 2023 (public/mapeamento/infografico-mapeamento-amagames-2023.pdf); valor exato no artigo SBGames 2024, p. 7 (R$ 435.749,97)",
    "note": "Soma de 23 participantes; +23,58% sobre 2022 segundo o artigo",
    "growth": 24,
    "growthFrom": 2022
@@ -49,7 +49,7 @@
    "year": 2024,
    "value": 1000000,
    "label": "1 milhão",
-   "source": "Infográfico do mapeamento 2024 (public/mapeamento/infografico-mapeamento-amaagames-2024.pdf)",
+   "source": "Infográfico do mapeamento 2024 (public/mapeamento/infografico-mapeamento-amagames-2024.pdf)",
    "note": "Valor arredondado no infográfico",
    "growth": 129,
    "growthFrom": 2023
@@ -58,7 +58,7 @@
    "year": 2025,
    "value": 1350000,
    "label": "1,35 milhão",
-   "source": "Infográfico do mapeamento 2025 (public/mapeamento/infografico-mapeamento-amaagames-2025.pdf)",
+   "source": "Infográfico do mapeamento 2025 (public/mapeamento/infografico-mapeamento-amagames-2025.pdf)",
    "note": "Valor arredondado no infográfico",
    "growth": 35,
    "growthFrom": 2024
@@ -162,7 +162,10 @@
      ]
     }
    ],
-   "pdf": null,
+   "pdf": {
+    "url": "./mapeamento/infografico-mapeamento-amagames-2019.pdf",
+    "size": "0,8 MB"
+   },
    "credits": "",
    "article": null
   },
@@ -362,7 +365,10 @@
      ]
     }
    ],
-   "pdf": null,
+   "pdf": {
+    "url": "./mapeamento/infografico-mapeamento-amagames-2021.pdf",
+    "size": "2,7 MB"
+   },
    "credits": "Arte: wauis.carrd.co",
    "article": null
   },
@@ -672,7 +678,10 @@
      ]
     }
    ],
-   "pdf": null,
+   "pdf": {
+    "url": "./mapeamento/infografico-mapeamento-amagames-2022.pdf",
+    "size": "3,1 MB"
+   },
    "credits": "Design: Heitor Dias. Ilustrações: Rafael Solano",
    "article": null
   },
@@ -988,7 +997,10 @@
      ]
     }
    ],
-   "pdf": null,
+   "pdf": {
+    "url": "./mapeamento/infografico-mapeamento-amagames-2023.pdf",
+    "size": "2,6 MB"
+   },
    "credits": "Design: Heitor Dias",
    "article": {
     "url": "https://sol.sbc.org.br/index.php/sbgames/article/view/32421",
@@ -1254,7 +1266,10 @@
      ]
     }
    ],
-   "pdf": null,
+   "pdf": {
+    "url": "./mapeamento/infografico-mapeamento-amagames-2024.pdf",
+    "size": "1,3 MB"
+   },
    "credits": "Design: Heitor Dias",
    "article": null
   },
@@ -1510,7 +1525,10 @@
      ]
     }
    ],
-   "pdf": null,
+   "pdf": {
+    "url": "./mapeamento/infografico-mapeamento-amagames-2025.pdf",
+    "size": "1,3 MB"
+   },
    "credits": "Design: Heitor Dias",
    "article": null
   }
