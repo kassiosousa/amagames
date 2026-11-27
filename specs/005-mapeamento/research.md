@@ -3,12 +3,12 @@
 ## Arquivos da pasta `public/mapeamento/`
 | Arquivo | Conteúdo |
 |---|---|
-| `infografico-mapeamento-amaagames-2019.pdf` | 1 página, imagem sem texto; layout próprio (demografia, estúdios, jogos, AMAGAMES) |
-| `infografico-mapeamento-amaagames-2021.pdf` | **Adicionado pela associação.** 1 página muito longa (1920 x 13606), só imagem, **2,7 MB depois da compressão** (antes: 16 MB); layout próprio |
-| `infografico-mapeamento-amaagames-2022.pdf` | 1 página horizontal, imagem sem texto |
-| `infografico-mapeamento-amaagames-2023.pdf` | 3 páginas, mesmo modelo de 2024 e 2025 |
-| `infografico-mapeamento-amaagames-2024.pdf` | 3 páginas |
-| `infografico-mapeamento-amaagames-2025.pdf` | 3 páginas, **1,3 MB depois da compressão** (antes: 27 MB); edição mais recente |
+| `infografico-mapeamento-amagames-2019.pdf` | 1 página, imagem sem texto; layout próprio (demografia, estúdios, jogos, AMAGAMES) |
+| `infografico-mapeamento-amagames-2021.pdf` | **Adicionado pela associação.** 1 página muito longa (1920 x 13606), só imagem, **2,7 MB depois da compressão** (antes: 16 MB); layout próprio |
+| `infografico-mapeamento-amagames-2022.pdf` | 1 página horizontal, imagem sem texto |
+| `infografico-mapeamento-amagames-2023.pdf` | 3 páginas, mesmo modelo de 2024 e 2025 |
+| `infografico-mapeamento-amagames-2024.pdf` | 3 páginas |
+| `infografico-mapeamento-amagames-2025.pdf` | 3 páginas, **1,3 MB depois da compressão** (antes: 27 MB); edição mais recente |
 | `artigo-sbgames-2024-mapeamento-2023.pdf` | **Adicionado nesta pesquisa**: artigo público do SBGames 2024 (12 páginas, 907 KB), baixado de `https://sol.sbc.org.br/index.php/sbgames/article/download/32421/32218` |
 | `levantamento-mapeamento-ecossistema.xlsx` | **Criado nesta pesquisa**: números transcritos dos infográficos |
 
@@ -29,7 +29,7 @@ O valor de 2022 usado hoje no site (R$ 352.600) era uma estimativa derivada; pas
 
 ## Dados de 2021
 A associação adicionou à pasta o infográfico de 2021, e a pesquisa anterior (que só achava o valor no artigo) fica como confirmação.
-- **Infográfico de 2021** (`infografico-mapeamento-amaagames-2021.pdf`): 15 estúdios; faturamento de 568 mil; 25 jogos (18 de prestação de serviço e 25 autorais); 12 PC, 10 mobile, 1 VR e 1 autoral em console; 13 jogos autorais lançados (12 PC, 6 mobile, 1 VR, 1 console); 3 parcerias com publishers; 21 festivais (14 brasileiros e 7 internacionais), 23 indicações e 11 premiações; 14 submissões e 8 contemplações em editais; representação de minorias em 53% dos sócios; 64 contratações geradas; 28 profissionais. Arte: wauis.carrd.co. Todos os números estão na planilha, aba Indicadores.
+- **Infográfico de 2021** (`infografico-mapeamento-amagames-2021.pdf`): 15 estúdios; faturamento de 568 mil; 25 jogos (18 de prestação de serviço e 25 autorais); 12 PC, 10 mobile, 1 VR e 1 autoral em console; 13 jogos autorais lançados (12 PC, 6 mobile, 1 VR, 1 console); 3 parcerias com publishers; 21 festivais (14 brasileiros e 7 internacionais), 23 indicações e 11 premiações; 14 submissões e 8 contemplações em editais; representação de minorias em 53% dos sócios; 64 contratações geradas; 28 profissionais. Arte: wauis.carrd.co. Todos os números estão na planilha, aba Indicadores.
 - **Confirmação no artigo SBGames 2024, p. 8:** "Entre 2019 e 2021, esse valor tinha apresentado um aumento, antes de R$ 110.000, para R$ 568.000, um acréscimo de mais de 500%", e a Figura 4 (histórico de receitas). Artigo salvo na pasta.
 - **Site antigo:** o site da AMAGAMES está fora do ar (informado pela associação); o artigo cita `amagames.com.br/mapeamento/` e `/category/relato/`, que por isso não servem de fonte nem de link. O mapeamento está sendo refeito do zero neste site.
 - **2020:** não houve mapeamento. A associação mapeou em 2019 e, depois, de 2021 em diante. A Figura 4 do artigo liga 2019 a 2021 por uma linha reta, sem valor em 2020.
@@ -45,7 +45,7 @@ A associação adicionou à pasta o infográfico de 2021, e a pesquisa anterior 
 - O infográfico de 2021 mostra "25 jogos", "18 prestação de serviço" e "25 jogos autorais"; os números não se somam e foram transcritos como aparecem.
 - Os eventos citados mudam de ano para ano (a planilha segue cada ano como foi publicado).
 - O infográfico de 2024 mostra "MGD - Maranhão Games Direct" e o de 2025 "Expoindústria", eventos que não aparecem em outros anos.
-- O nome dos arquivos usa "amaagames" (dois "a"); mantido como está.
+- Correção de 2026-11-27: a planilha e a spec citavam "amaagames" (dois "a"), mas os arquivos se chamam "amagames"; por isso nenhum ano exibia o link "Visualizar Infográfico". Os nomes foram alinhados aos arquivos reais.
 
 ## Regras
 - Dado que não for encontrado fica em branco: não inventar.

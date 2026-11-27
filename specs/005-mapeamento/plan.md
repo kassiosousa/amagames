@@ -37,7 +37,7 @@ Arquivo: `dados/levantamento-mapeamento-ecossistema.xlsx`, com três abas. O scr
 - **Transcrição manual** dos infográficos: risco de erro de leitura; revisar com a associação.
 - **PDFs pesados**: 2025 foi comprimido de 27 MB para 1,3 MB (páginas em JPEG com camada de texto pesquisável); 2021 foi comprimido de 16 MB para 2,7 MB (mesma resolução, JPEG). Só link, nunca carregar com a página.
 - **Layouts de 2019 e 2021** diferentes dos demais: só os indicadores que existem em cada ano entram; a página esconde seções vazias.
-- **Ano do arquivo**: o nome `infografico-mapeamento-amaagames-AAAA.pdf` tem a grafia "amaagames" (com dois "a"); o script usa o nome do arquivo real, sem renomear.
+- **Nome dos arquivos**: `infografico-mapeamento-amagames-AAAA.pdf`; a coluna "Arquivo" da aba "Fontes" precisa ser idêntica ao nome real. Quando não bate, o script grava o PDF como vazio e o link some sem erro no build.
 - **Valores arredondados** em 2024 e 2025 podem gerar variações aproximadas (2025: +35%).
 
 ## Verificação
